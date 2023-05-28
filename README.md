@@ -7,3 +7,7 @@ The code base is developed using standalone airflow. To run the data pipeline DA
 ### Webservice test
 
 The webserver endpoint is developed and tested in this repo: https://github.com/sb689/server_api
+
+### DAG diagram
+
+<img width="1442" alt="Screen Shot 2023-05-28 at 2 59 47 PM" src="https://github.com/sb689/data_pipeline/assets/21972114/d7f75a76-3255-4f2e-b0cd-e7129e99907b">
