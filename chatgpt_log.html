@@ -1,0 +1,83 @@
+<html>
+<head>
+    <title>ChatGPT Data Export</title>
+    <style>
+        body {
+            margin: 20px;
+        }
+        h4 {
+            font-family: sans-serif;
+            margin: 0;
+        }
+        #root {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .conversation {
+            border: 1px solid black;
+            padding: 20px;
+            background-color: #f3f3f3;
+        }
+        .message {
+            white-space: pre-wrap;
+            margin: 20px 0;
+        }
+        .author {
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+        .author::first-letter {
+            text-transform: uppercase;
+        }
+    </style>
+    <script>
+var jsonData = [{"title": "Spark SQL Avg Moving Vol.", "create_time": 1685302147.032022, "update_time": 1685309097.0, "mapping": {"ad43bdcd-12ab-4789-99fa-65c470727b06": {"id": "ad43bdcd-12ab-4789-99fa-65c470727b06", "message": {"id": "ad43bdcd-12ab-4789-99fa-65c470727b06", "author": {"role": "system", "name": null, "metadata": {}}, "create_time": 1685302147.03228, "update_time": null, "content": {"content_type": "text", "parts": [""]}, "status": "finished_successfully", "end_turn": true, "weight": 1.0, "metadata": {}, "recipient": "all"}, "parent": "aaa16b6c-4ff2-4919-8e5e-a03b1ef0894b", "children": ["aaa2b36f-7a96-489f-a0af-7ee028610ff9"]}, "aaa16b6c-4ff2-4919-8e5e-a03b1ef0894b": {"id": "aaa16b6c-4ff2-4919-8e5e-a03b1ef0894b", "message": null, "parent": null, "children": ["ad43bdcd-12ab-4789-99fa-65c470727b06"]}, "aaa2b36f-7a96-489f-a0af-7ee028610ff9": {"id": "aaa2b36f-7a96-489f-a0af-7ee028610ff9", "message": {"id": "aaa2b36f-7a96-489f-a0af-7ee028610ff9", "author": {"role": "user", "name": null, "metadata": {}}, "create_time": 1685302147.033011, "update_time": null, "content": {"content_type": "text", "parts": ["convert below code in spark dataframe sql\n          SELECT *,\n          avg(volume) OVER(\n              PARTITION BY Symbol\n              ORDER BY Date\n              ROWS BETWEEN 29 PRECEDING AND CURRENT ROW)\n              AS vol_moving_avg\n          FROM etf_table"]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"timestamp_": "absolute", "message_type": null}, "recipient": "all"}, "parent": "ad43bdcd-12ab-4789-99fa-65c470727b06", "children": ["f16b415a-726c-4634-bbad-424db0368021"]}, "f16b415a-726c-4634-bbad-424db0368021": {"id": "f16b415a-726c-4634-bbad-424db0368021", "message": {"id": "f16b415a-726c-4634-bbad-424db0368021", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1685302152.772175, "update_time": null, "content": {"content_type": "text", "parts": ["To convert the given code into Spark DataFrame SQL syntax, you can use the following query:\n\n```sql\nSELECT *,\n    AVG(volume) OVER (\n        PARTITION BY Symbol\n        ORDER BY Date\n        ROWS BETWEEN 29 PRECEDING AND CURRENT ROW\n    ) AS vol_moving_avg\nFROM etf_table\n```\n\nThis query calculates the moving average of the &quot;volume&quot; column over a window of 30 rows (29 preceding rows and the current row) for each partition defined by the &quot;Symbol&quot; column in the &quot;etf_table&quot; DataFrame. The result includes all columns from the original table along with the calculated moving average column named &quot;vol_moving_avg&quot;."]}, "status": "finished_successfully", "end_turn": true, "weight": 1.0, "metadata": {"message_type": null, "model_slug": "text-davinci-002-render-sha", "finish_details": {"type": "stop", "stop": "&lt;|diff_marker|&gt;"}, "timestamp_": "absolute"}, "recipient": "all"}, "parent": "aaa2b36f-7a96-489f-a0af-7ee028610ff9", "children": ["aaa26ae0-5471-4e87-a4b1-774fc981d150"]}, "aaa26ae0-5471-4e87-a4b1-774fc981d150": {"id": "aaa26ae0-5471-4e87-a4b1-774fc981d150", "message": {"id": "aaa26ae0-5471-4e87-a4b1-774fc981d150", "author": {"role": "user", "name": null, "metadata": {}}, "create_time": 1685302195.483431, "update_time": null, "content": {"content_type": "text", "parts": ["do now want to use sql but use spark-native way"]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"timestamp_": "absolute", "message_type": null}, "recipient": "all"}, "parent": "f16b415a-726c-4634-bbad-424db0368021", "children": ["d977c629-f0ff-42e6-91d9-273c29dbb4be"]}, "d977c629-f0ff-42e6-91d9-273c29dbb4be": {"id": "d977c629-f0ff-42e6-91d9-273c29dbb4be", "message": {"id": "d977c629-f0ff-42e6-91d9-273c29dbb4be", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1685302205.713224, "update_time": null, "content": {"content_type": "text", "parts": ["To perform the same operation using Spark DataFrame&#x27;s native API instead of SQL, you can use the following code snippet:\n\n```python\nfrom pyspark.sql import functions as F\nfrom pyspark.sql.window import Window\n\n# Define the window specification\nwindow_spec = Window.partitionBy(&quot;Symbol&quot;).orderBy(&quot;Date&quot;).rowsBetween(Window.currentRow - 29, Window.currentRow)\n\n# Calculate the moving average using the window specification\ndf = df.withColumn(&quot;vol_moving_avg&quot;, F.avg(&quot;volume&quot;).over(window_spec))\n```\n\nIn the above code, we import the necessary functions from the `pyspark.sql` module. We then create a `Window` object, specifying the partitioning column (&quot;Symbol&quot;) and the ordering column (&quot;Date&quot;). The `rowsBetween` method is used to define the window frame as the current row and the 29 preceding rows.\n\nFinally, we use the `withColumn` method to add a new column called &quot;vol_moving_avg&quot; to the DataFrame `df`, where we calculate the average of the &quot;volume&quot; column over the defined window using the `avg` function from `pyspark.sql.functions`.\n\nNote that you need to replace `df` with your actual DataFrame name."]}, "status": "finished_successfully", "end_turn": true, "weight": 1.0, "metadata": {"message_type": null, "model_slug": "text-davinci-002-render-sha", "finish_details": {"type": "stop", "stop": "&lt;|diff_marker|&gt;"}, "timestamp_": "absolute"}, "recipient": "all"}, "parent": "aaa26ae0-5471-4e87-a4b1-774fc981d150", "children": ["aaa229e4-44e1-403e-9b77-ce867f3b0b9c"]}, "aaa229e4-44e1-403e-9b77-ce867f3b0b9c": {"id": "aaa229e4-44e1-403e-9b77-ce867f3b0b9c", "message": {"id": "aaa229e4-44e1-403e-9b77-ce867f3b0b9c", "author": {"role": "user", "name": null, "metadata": {}}, "create_time": 1685308253.685083, "update_time": null, "content": {"content_type": "text", "parts": ["calculate median in spark dataframe"]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"timestamp_": "absolute", "message_type": null}, "recipient": "all"}, "parent": "d977c629-f0ff-42e6-91d9-273c29dbb4be", "children": ["f3fe3c43-c71b-40e7-a038-2611519c8684"]}, "f3fe3c43-c71b-40e7-a038-2611519c8684": {"id": "f3fe3c43-c71b-40e7-a038-2611519c8684", "message": {"id": "f3fe3c43-c71b-40e7-a038-2611519c8684", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1685308265.879773, "update_time": null, "content": {"content_type": "text", "parts": ["To calculate the median in a Spark DataFrame, you can use the `approxQuantile` function provided by the `pyspark.sql.functions` module. Here&#x27;s an example of how you can calculate the median:\n\n```python\nfrom pyspark.sql import functions as F\n\n# Assuming &#x27;df&#x27; is your DataFrame and &#x27;column_name&#x27; is the column for which you want to calculate the median\nmedian = df.approxQuantile(column_name, [0.5], 0.0)[0]\n\nprint(&quot;Median:&quot;, median)\n```\n\nIn the code snippet above, the `approxQuantile` function is used to calculate the approximate median. It takes three arguments: the column name for which you want to calculate the median, an array specifying the quantiles to compute (in this case, we pass `[0.5]` for the median), and a relative error parameter (set to 0.0 for an exact calculation).\n\nThe function returns an array of quantiles, and since we are only interested in the median, we access the first element of the returned array using `[0]`.\n\nNote that the `approxQuantile` function provides an approximate calculation of the median, which is faster but may not be as accurate as an exact calculation. If you need an exact calculation, you can consider using a different approach, such as using the `percentile` function along with the `when` function to handle odd/even row counts."]}, "status": "finished_successfully", "end_turn": true, "weight": 1.0, "metadata": {"message_type": null, "model_slug": "text-davinci-002-render-sha", "finish_details": {"type": "stop", "stop": "&lt;|diff_marker|&gt;"}, "timestamp_": "absolute"}, "recipient": "all"}, "parent": "aaa229e4-44e1-403e-9b77-ce867f3b0b9c", "children": ["aaa205c3-7beb-4e72-95cd-7b96e143473e"]}, "aaa205c3-7beb-4e72-95cd-7b96e143473e": {"id": "aaa205c3-7beb-4e72-95cd-7b96e143473e", "message": {"id": "aaa205c3-7beb-4e72-95cd-7b96e143473e", "author": {"role": "user", "name": null, "metadata": {}}, "create_time": 1685309086.572213, "update_time": null, "content": {"content_type": "text", "parts": ["calculate rolling_median of 30 days on a window partition in native spark"]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"timestamp_": "absolute", "message_type": null}, "recipient": "all"}, "parent": "f3fe3c43-c71b-40e7-a038-2611519c8684", "children": ["997da2a5-8a65-416a-b63d-d5f7fc9697f6"]}, "997da2a5-8a65-416a-b63d-d5f7fc9697f6": {"id": "997da2a5-8a65-416a-b63d-d5f7fc9697f6", "message": {"id": "997da2a5-8a65-416a-b63d-d5f7fc9697f6", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1685309097.820852, "update_time": null, "content": {"content_type": "text", "parts": ["To calculate the rolling median over a window partition of 30 days in Spark DataFrame&#x27;s native API, you can use the `percentile_approx` function along with a window specification. Here&#x27;s an example:\n\n```python\nfrom pyspark.sql import functions as F\nfrom pyspark.sql.window import Window\n\n# Define the window specification\nwindow_spec = Window.partitionBy(&quot;Symbol&quot;).orderBy(&quot;Date&quot;).rowsBetween(-29, 0)\n\n# Calculate the rolling median using the window specification\ndf = df.withColumn(&quot;rolling_median&quot;, F.expr(&quot;percentile_approx(column_name, 0.5)&quot;).over(window_spec))\n```\n\nIn the code snippet above, we import the necessary functions from the `pyspark.sql` module. We also import the `Window` class from `pyspark.sql.window` to define the window specification.\n\nNext, we define the window specification using the `Window.partitionBy().orderBy().rowsBetween()` methods. In this case, we partition the data by the &quot;Symbol&quot; column, order it by the &quot;Date&quot; column, and specify a rolling window of the 30 preceding rows including the current row.\n\nFinally, we use the `withColumn` method to add a new column called &quot;rolling_median&quot; to the DataFrame `df`. We calculate the rolling median by applying the `percentile_approx` function to the &quot;column_name&quot; column using the window specification.\n\nReplace &quot;df&quot; with your actual DataFrame name, and &quot;column_name&quot; with the name of the column for which you want to calculate the rolling median."]}, "status": "finished_successfully", "end_turn": true, "weight": 1.0, "metadata": {"message_type": null, "model_slug": "text-davinci-002-render-sha", "finish_details": {"type": "stop", "stop": "&lt;|diff_marker|&gt;"}, "timestamp_": "absolute"}, "recipient": "all"}, "parent": "aaa205c3-7beb-4e72-95cd-7b96e143473e", "children": []}}, "moderation_results": [], "current_node": "997da2a5-8a65-416a-b63d-d5f7fc9697f6", "plugin_ids": null, "id": "5e39e29e-adb9-4168-8dc8-53aabe69c748"}]
+
+function getConversationMessages(conversation) {
+    var messages = [];
+    var currentNode = conversation.current_node;
+    while (currentNode != null) {
+        var node = conversation.mapping[currentNode];
+        if (node.message &&
+            node.message.content &&
+            node.message.content.content_type == "text"
+            && node.message.content.parts.length > 0 &&
+            node.message.content.parts[0].length > 0 && 
+            node.message.author.role != "system") {
+            author = node.message.author.role;
+            if (author === "assistant") {
+                author = "ChatGPT";
+            }
+            messages.push({ author, text: node.message.content.parts[0] });
+        }
+        currentNode = node.parent;
+    }
+    return messages.reverse();
+}
+
+// on load, add messages to the root div 
+window.onload = function() {
+    var root = document.getElementById("root");
+    for (var i = 0; i < jsonData.length; i++) {
+        var conversation = jsonData[i];
+        var messages = getConversationMessages(conversation);
+        var div = document.createElement("div");
+        div.className = "conversation";
+        div.innerHTML = "<h4>" + conversation.title + "</h4>";
+        for (var j = 0; j < messages.length; j++) {
+            var message = document.createElement("pre");
+            message.className = "message";
+            message.innerHTML = `<div class="author">${messages[j].author}</div><div>${messages[j].text}</div>`;
+            div.appendChild(message);
+        }
+        root.appendChild(div);
+    }
+}
+    </script>
+</head>
+<body>
+<div id="root">
+</div>
+</body>
+</html>
