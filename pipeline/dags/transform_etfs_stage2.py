@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
-from pyspark.sql.functions import avg, expr
+from pyspark.sql.functions import avg, percentile_approx
 
 spark = SparkSession \
     .builder \
@@ -17,7 +17,7 @@ final_df.printSchema()
 # Feature engineering
 window_spec = Window.partitionBy("Symbol").orderBy("Date").rowsBetween(Window.currentRow - 29, Window.currentRow)
 final_df = final_df.withColumn("vol_moving_avg", avg("volume").over(window_spec))
-final_df = final_df.withColumn("adj_close_rolling_med", expr("percentile_approx(AdjClose, 0.5)").over(window_spec))
+final_df = final_df.withColumn("adj_close_rolling_med", percentile_approx("AdjClose", 0.5).over(window_spec))
 print("print scema from final_df =====================")
 final_df.printSchema()
 
