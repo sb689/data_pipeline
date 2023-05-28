@@ -18,26 +18,26 @@ schema = StructType() \
     .add("Volume", IntegerType(), True)
 
 path = "./airflow/data_pipeline/pipeline/stock-data/symbols_valid_meta.csv"
-stock_symbols_df = spark.read.option("header", "true").csv(path)
-stock_df_selected_columns = stock_symbols_df.select(
+stock_df_selected_columns = spark.read.option("header", "true").csv(path)
+stock_df_selected_columns = stock_df_selected_columns.select(
     ["Symbol", "Security Name"])
 
 # Stocks
 path = "./airflow/data_pipeline/pipeline/stock-data/etfs/"
 
-stock_symbol1_df = spark.read.option("header", "true").schema(schema).csv(path) \
+etf_df = spark.read.option("header", "true").schema(schema).csv(path) \
     .withColumn("Symbol1", input_file_name()) \
     .withColumnRenamed("Adj Close", "AdjClose")
 
-stock_symbol2_df = stock_symbol1_df.withColumn(
+etf_df = etf_df.withColumn(
     "Symbol2", regexp_extract(col('Symbol1'), r'^.*[\\/](.+?)\.[^.]+$', 1))
 
-stock_symbol2_df = stock_symbol2_df.drop(col("Symbol1"))
+etf_df = etf_df.drop(col("Symbol1"))
 
-stock_symbol_df = stock_symbol2_df.join(stock_df_selected_columns,
-                                        stock_symbol2_df.Symbol2 == stock_df_selected_columns.Symbol, "left")
-stock_final_df = stock_symbol_df.drop(col("Symbol2"))
+etf_df = etf_df.join(stock_df_selected_columns,
+                     etf_df.Symbol2 == stock_df_selected_columns.Symbol, "left")
+etf_df = etf_df.drop(col("Symbol2"))
 
 # write into parquet format
 out_path = "./airflow/data_pipeline/pipeline/etf-data-out/landing_etfs.parquet"
-stock_final_df.write.mode("overwrite").save(out_path, format="parquet")
+etf_df.write.mode("overwrite").save(out_path, format="parquet")

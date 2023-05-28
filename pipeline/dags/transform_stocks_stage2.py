@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
-from pyspark.sql.functions import avg
+from pyspark.sql.functions import avg, expr
 
 
 spark = SparkSession \
@@ -11,16 +11,16 @@ spark = SparkSession \
 
 # read from parquet file of stage1
 out_path = "./airflow/data_pipeline/pipeline/stock-data-out/landing_stocks.parquet"
-stock_out_df = spark.read.parquet(out_path)
+final_df = spark.read.parquet(out_path)
 print("print scema after parquet conversion =====================")
-stock_out_df.printSchema()
+final_df.printSchema()
 
 
 # Feature engineering
 # Feature engineering
 window_spec = Window.partitionBy("Symbol").orderBy("Date").rowsBetween(Window.currentRow - 29, Window.currentRow)
-final_df = stock_out_df.withColumn("vol_moving_avg", avg("volume").over(window_spec))
-final_df = final_df.withColumn("adj_close_rolling_med", avg("AdjClose").over(window_spec))
+final_df = final_df.withColumn("vol_moving_avg", avg("volume").over(window_spec))
+final_df = final_df.withColumn("adj_close_rolling_med", expr("percentile_approx(AdjClose, 0.5)").over(window_spec))
 print("print scema from final_df =====================")
 final_df.printSchema()
 

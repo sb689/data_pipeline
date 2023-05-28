@@ -12,7 +12,7 @@ default_args = {
 }
 
 dag_stock_analysis = DAG(
-    dag_id="stock_etf_analysis_dag_v_06",
+    dag_id="stock_etf_analysis_dag_v_08",
     default_args=default_args,
     schedule_interval='@once',
     dagrun_timeout=timedelta(minutes=300),
