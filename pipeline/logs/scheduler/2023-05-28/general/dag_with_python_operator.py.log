@@ -1,0 +1,819 @@
+[2023-05-27T19:00:02.213-0500] {processor.py:157} INFO - Started process (PID=23520) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:02.217-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:00:02.217-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:02.217-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:02.238-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:02.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:02.821-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:00:02.833-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:02.833-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:00:02.845-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.632 seconds
+[2023-05-27T19:00:39.024-0500] {processor.py:157} INFO - Started process (PID=23560) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:39.027-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:00:39.028-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:39.028-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:39.054-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:00:39.671-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:39.671-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:00:39.683-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:39.682-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:00:39.696-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.673 seconds
+[2023-05-27T19:01:15.193-0500] {processor.py:157} INFO - Started process (PID=23585) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:15.196-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:01:15.197-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:15.197-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:15.217-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:15.793-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:15.792-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:15.806-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:15.806-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:01:15.820-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.627 seconds
+[2023-05-27T19:01:52.703-0500] {processor.py:157} INFO - Started process (PID=23609) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:52.707-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:01:52.707-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:52.707-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:52.730-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:01:53.307-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:53.306-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:53.322-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:53.321-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:01:53.336-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.633 seconds
+[2023-05-27T19:02:28.142-0500] {processor.py:157} INFO - Started process (PID=23635) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:02:28.145-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:02:28.145-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:28.145-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:02:28.167-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:02:28.781-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:28.780-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:02:28.796-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:28.796-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:02:28.811-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.670 seconds
+[2023-05-27T19:03:02.654-0500] {processor.py:157} INFO - Started process (PID=23656) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:02.657-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:03:02.657-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:02.657-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:02.679-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:03.256-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:03.256-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:03:03.267-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:03.267-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:03:03.280-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.627 seconds
+[2023-05-27T19:03:40.916-0500] {processor.py:157} INFO - Started process (PID=23696) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:40.920-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:03:40.921-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:40.921-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:40.947-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:03:41.595-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:41.595-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:03:41.608-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:41.608-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:03:41.621-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.706 seconds
+[2023-05-27T19:04:17.333-0500] {processor.py:157} INFO - Started process (PID=23718) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:17.337-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:04:17.338-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:17.337-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:17.365-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:18.081-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:18.080-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:18.095-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:18.095-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:04:18.109-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.777 seconds
+[2023-05-27T19:04:54.242-0500] {processor.py:157} INFO - Started process (PID=23742) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:54.247-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:04:54.248-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:54.247-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:54.275-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:04:54.966-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:54.966-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:54.986-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:54.986-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:04:55.003-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.761 seconds
+[2023-05-27T19:05:31.120-0500] {processor.py:157} INFO - Started process (PID=23765) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:05:31.124-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:05:31.125-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:31.125-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:05:31.151-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:05:31.838-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:31.838-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:05:31.853-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:31.853-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:05:31.867-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.748 seconds
+[2023-05-27T19:06:09.195-0500] {processor.py:157} INFO - Started process (PID=23789) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:09.199-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:06:09.199-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:09.199-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:09.224-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:09.857-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:09.856-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:06:09.869-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:09.869-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:06:09.884-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.690 seconds
+[2023-05-27T19:06:44.037-0500] {processor.py:157} INFO - Started process (PID=23811) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:44.041-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:06:44.041-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:44.041-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:44.065-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:06:44.693-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:44.693-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:06:44.708-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:44.708-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:06:44.725-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.688 seconds
+[2023-05-27T19:07:21.003-0500] {processor.py:157} INFO - Started process (PID=23836) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:21.007-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:07:21.007-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:21.007-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:21.032-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:21.702-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:21.701-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:21.715-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:21.715-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:07:21.730-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.728 seconds
+[2023-05-27T19:07:57.292-0500] {processor.py:157} INFO - Started process (PID=23858) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:57.298-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:07:57.298-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:57.298-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:57.340-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:07:58.074-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:58.074-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:58.089-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:58.089-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:07:58.103-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.812 seconds
+[2023-05-27T19:08:34.411-0500] {processor.py:157} INFO - Started process (PID=23881) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:08:34.415-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:08:34.415-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:34.415-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:08:34.440-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:08:35.107-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:35.107-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:08:35.122-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:35.122-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:08:35.136-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.726 seconds
+[2023-05-27T19:09:11.642-0500] {processor.py:157} INFO - Started process (PID=23915) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:11.646-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:09:11.646-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:11.646-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:11.673-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:12.287-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:12.287-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:09:12.300-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:12.300-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:09:12.318-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.677 seconds
+[2023-05-27T19:09:48.385-0500] {processor.py:157} INFO - Started process (PID=23937) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:48.388-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:09:48.389-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:48.389-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:48.416-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:09:49.076-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:49.076-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:09:49.090-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:49.090-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:09:49.104-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.720 seconds
+[2023-05-27T19:10:25.041-0500] {processor.py:157} INFO - Started process (PID=23958) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:10:25.045-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:10:25.046-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:25.046-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:10:25.073-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:10:25.764-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:25.764-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:10:25.779-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:25.779-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:10:25.794-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.754 seconds
+[2023-05-27T19:11:01.722-0500] {processor.py:157} INFO - Started process (PID=23987) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:01.725-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:11:01.726-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:01.725-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:01.750-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:02.372-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:02.372-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:11:02.386-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:02.386-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:11:02.401-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.680 seconds
+[2023-05-27T19:11:38.090-0500] {processor.py:157} INFO - Started process (PID=24018) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:38.094-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:11:38.095-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:38.095-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:38.121-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:11:38.733-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:38.733-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:11:38.746-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:38.746-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:11:38.760-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.670 seconds
+[2023-05-27T19:12:14.678-0500] {processor.py:157} INFO - Started process (PID=24042) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:14.682-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:12:14.683-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:14.683-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:14.709-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:15.327-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:15.327-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:15.340-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:15.340-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:12:15.355-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.678 seconds
+[2023-05-27T19:12:51.522-0500] {processor.py:157} INFO - Started process (PID=24063) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:51.526-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:12:51.526-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:51.526-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:51.552-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:12:52.231-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:52.231-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:52.248-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:52.248-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:12:52.268-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.746 seconds
+[2023-05-27T19:13:28.103-0500] {processor.py:157} INFO - Started process (PID=24087) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:13:28.107-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:13:28.108-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:28.107-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:13:28.139-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:13:28.913-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:28.913-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:13:28.927-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:28.927-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:13:28.942-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.839 seconds
+[2023-05-27T19:14:06.156-0500] {processor.py:157} INFO - Started process (PID=24117) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:06.161-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:14:06.161-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:06.161-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:06.188-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:06.882-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:06.882-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:14:06.896-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:06.896-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:14:06.912-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.756 seconds
+[2023-05-27T19:14:42.786-0500] {processor.py:157} INFO - Started process (PID=24140) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:42.790-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:14:42.791-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:42.791-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:42.817-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:14:43.440-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:43.439-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:14:43.453-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:43.452-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:14:43.467-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.682 seconds
+[2023-05-27T19:15:19.185-0500] {processor.py:157} INFO - Started process (PID=24166) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:19.188-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:15:19.188-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:19.188-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:19.214-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:19.835-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:19.835-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:19.847-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:19.847-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:15:19.861-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.677 seconds
+[2023-05-27T19:15:56.699-0500] {processor.py:157} INFO - Started process (PID=24189) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:56.703-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:15:56.704-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:56.703-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:56.730-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:15:57.368-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:57.368-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:57.385-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:57.385-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:15:57.470-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.772 seconds
+[2023-05-27T19:16:32.957-0500] {processor.py:157} INFO - Started process (PID=24211) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:16:32.960-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:16:32.960-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:32.960-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:16:32.982-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:16:33.602-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:33.602-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:16:33.614-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:33.614-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:16:33.631-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.675 seconds
+[2023-05-27T19:17:09.699-0500] {processor.py:157} INFO - Started process (PID=24236) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:09.703-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:17:09.703-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:09.703-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:09.728-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:10.391-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:10.391-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:17:10.404-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:10.404-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:17:10.417-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.718 seconds
+[2023-05-27T19:17:46.083-0500] {processor.py:157} INFO - Started process (PID=24264) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:46.088-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:17:46.088-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:46.088-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:46.114-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:17:46.745-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:46.744-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:17:46.759-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:46.759-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:17:46.772-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.689 seconds
+[2023-05-27T19:18:22.530-0500] {processor.py:157} INFO - Started process (PID=24293) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:22.535-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:18:22.535-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:22.535-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:22.561-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:23.226-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:23.226-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:23.241-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:23.241-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:18:23.256-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.726 seconds
+[2023-05-27T19:18:59.227-0500] {processor.py:157} INFO - Started process (PID=24319) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:59.231-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:18:59.231-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:59.231-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:59.257-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:18:59.887-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:59.887-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:59.900-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:59.900-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:18:59.914-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.688 seconds
+[2023-05-27T19:19:35.489-0500] {processor.py:157} INFO - Started process (PID=24354) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:19:35.493-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:19:35.493-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:35.493-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:19:35.520-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:19:36.187-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:36.187-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:19:36.201-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:36.201-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:19:36.216-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.727 seconds
+[2023-05-27T19:20:12.109-0500] {processor.py:157} INFO - Started process (PID=24376) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:12.113-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:20:12.114-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:12.114-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:12.139-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:12.749-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:12.749-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:20:12.762-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:12.762-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:20:12.775-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.667 seconds
+[2023-05-27T19:20:48.445-0500] {processor.py:157} INFO - Started process (PID=24398) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:48.448-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:20:48.449-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:48.449-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:48.474-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:20:49.333-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:49.333-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:20:49.348-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:49.348-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:20:49.376-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.932 seconds
+[2023-05-27T19:21:26.139-0500] {processor.py:157} INFO - Started process (PID=24420) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:21:26.144-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:21:26.144-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:26.144-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:21:26.170-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:21:26.843-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:26.843-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:21:26.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:26.856-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:21:26.872-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.733 seconds
+[2023-05-27T19:22:04.671-0500] {processor.py:157} INFO - Started process (PID=24443) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:04.676-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:22:04.676-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:04.676-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:04.703-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:05.358-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:05.358-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:22:05.372-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:05.372-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:22:05.386-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.716 seconds
+[2023-05-27T19:22:41.859-0500] {processor.py:157} INFO - Started process (PID=24477) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:41.864-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:22:41.864-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:41.864-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:41.892-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:22:42.516-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:42.516-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:22:42.529-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:42.529-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:22:42.543-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.684 seconds
+[2023-05-27T19:23:17.996-0500] {processor.py:157} INFO - Started process (PID=24499) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:18.000-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:23:18.000-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:18.000-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:18.029-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:18.636-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:18.635-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:18.649-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:18.648-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:23:18.662-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.667 seconds
+[2023-05-27T19:23:54.279-0500] {processor.py:157} INFO - Started process (PID=24521) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:54.283-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:23:54.283-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:54.283-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:54.309-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:23:54.994-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:54.993-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:55.008-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:55.008-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:23:55.023-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.745 seconds
+[2023-05-27T19:24:30.472-0500] {processor.py:157} INFO - Started process (PID=24548) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:24:30.476-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:24:30.477-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:30.477-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:24:30.505-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:24:31.167-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:31.166-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:24:31.181-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:31.181-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:24:31.195-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.723 seconds
+[2023-05-27T19:25:07.432-0500] {processor.py:157} INFO - Started process (PID=24571) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:07.437-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:25:07.437-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:07.437-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:07.464-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:08.137-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:08.136-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:25:08.152-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:08.152-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:25:08.174-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.743 seconds
+[2023-05-27T19:25:44.266-0500] {processor.py:157} INFO - Started process (PID=24594) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:44.270-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:25:44.270-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:44.270-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:44.297-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:25:44.934-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:44.933-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:25:44.948-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:44.948-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:25:44.962-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.697 seconds
+[2023-05-27T19:26:21.007-0500] {processor.py:157} INFO - Started process (PID=24617) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:21.011-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:26:21.011-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:21.011-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:21.037-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:21.654-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:21.654-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:21.667-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:21.667-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:26:21.681-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.674 seconds
+[2023-05-27T19:26:56.989-0500] {processor.py:157} INFO - Started process (PID=24641) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:56.993-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:26:56.993-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:56.993-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:57.015-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:26:57.662-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:57.662-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:57.674-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:57.674-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:26:57.688-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.699 seconds
+[2023-05-27T19:27:33.382-0500] {processor.py:157} INFO - Started process (PID=24666) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:27:33.386-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:27:33.386-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:33.386-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:27:33.412-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:27:34.088-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:34.088-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:27:34.101-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:34.101-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:27:34.115-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.733 seconds
+[2023-05-27T19:28:09.752-0500] {processor.py:157} INFO - Started process (PID=24689) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:09.756-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:28:09.756-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:09.756-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:09.781-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:10.406-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:10.406-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:28:10.419-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:10.419-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:28:10.433-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.681 seconds
+[2023-05-27T19:28:46.744-0500] {processor.py:157} INFO - Started process (PID=24714) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:46.747-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:28:46.748-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:46.748-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:46.774-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:28:47.435-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:47.434-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:28:47.449-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:47.448-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:28:47.463-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.720 seconds
+[2023-05-27T19:29:23.896-0500] {processor.py:157} INFO - Started process (PID=24736) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:29:23.900-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:29:23.900-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:23.900-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:29:23.926-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:29:24.629-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:24.628-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:29:24.644-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:24.643-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:29:24.660-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.765 seconds
+[2023-05-27T19:30:00.664-0500] {processor.py:157} INFO - Started process (PID=24764) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:00.668-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:30:00.669-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:00.669-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:00.695-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:01.316-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:01.316-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:30:01.330-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:01.329-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:30:01.343-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.680 seconds
+[2023-05-27T19:30:36.549-0500] {processor.py:157} INFO - Started process (PID=24790) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:36.553-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:30:36.553-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:36.553-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:36.578-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:30:37.257-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:37.256-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:30:37.271-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:37.271-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:30:37.286-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.738 seconds
+[2023-05-27T19:31:13.829-0500] {processor.py:157} INFO - Started process (PID=24814) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:13.834-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:31:13.834-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:13.834-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:13.859-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:14.471-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:14.471-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:14.484-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:14.484-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:31:14.503-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.674 seconds
+[2023-05-27T19:31:50.785-0500] {processor.py:157} INFO - Started process (PID=24839) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:50.789-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:31:50.789-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:50.789-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:50.811-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:31:51.394-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:51.393-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:51.405-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:51.405-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:31:51.420-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.636 seconds
+[2023-05-27T19:32:24.674-0500] {processor.py:157} INFO - Started process (PID=24863) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:32:24.678-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:32:24.679-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:24.678-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:32:24.704-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:32:25.288-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:25.288-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:32:25.300-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:25.300-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:32:25.317-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.643 seconds
+[2023-05-27T19:33:01.690-0500] {processor.py:157} INFO - Started process (PID=24886) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:01.694-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:33:01.694-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:01.694-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:01.717-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:02.297-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:02.296-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:33:02.308-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:02.308-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:33:02.319-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.629 seconds
+[2023-05-27T19:33:33.953-0500] {processor.py:157} INFO - Started process (PID=24908) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:33.956-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:33:33.956-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:33.956-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:33.978-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:33:34.553-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:34.553-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:33:34.564-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:34.564-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:33:34.581-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.629 seconds
+[2023-05-27T19:34:10.318-0500] {processor.py:157} INFO - Started process (PID=24929) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:10.322-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:34:10.322-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:10.322-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:10.343-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:10.931-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:10.931-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:34:10.943-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:10.943-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:34:10.961-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.643 seconds
+[2023-05-27T19:34:44.466-0500] {processor.py:157} INFO - Started process (PID=24951) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:44.469-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:34:44.469-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:44.469-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:44.490-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:34:45.073-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:45.072-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:34:45.084-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:45.084-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:34:45.099-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.634 seconds
+[2023-05-27T19:35:20.984-0500] {processor.py:157} INFO - Started process (PID=24972) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:20.987-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:35:20.987-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:20.987-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:21.008-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:21.578-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:21.578-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:21.590-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:21.589-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:35:21.603-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.620 seconds
+[2023-05-27T19:35:55.216-0500] {processor.py:157} INFO - Started process (PID=24994) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:55.219-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:35:55.219-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:55.219-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:55.241-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:35:55.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:55.822-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:55.834-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:55.834-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:35:55.851-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.636 seconds
+[2023-05-27T19:36:31.474-0500] {processor.py:157} INFO - Started process (PID=25015) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:36:31.478-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:36:31.478-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:31.478-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:36:31.504-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:36:32.092-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:32.092-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:36:32.103-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:32.103-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:36:32.116-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.643 seconds
+[2023-05-27T19:37:06.478-0500] {processor.py:157} INFO - Started process (PID=25038) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:06.481-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:37:06.481-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:06.481-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:06.503-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:07.078-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:07.078-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:37:07.090-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:07.090-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:37:07.107-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.630 seconds
+[2023-05-27T19:37:42.767-0500] {processor.py:157} INFO - Started process (PID=25061) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:42.770-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:37:42.771-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:42.770-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:42.791-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:37:43.366-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:43.365-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:37:43.377-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:43.377-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:37:43.390-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.624 seconds
+[2023-05-27T19:38:20.098-0500] {processor.py:157} INFO - Started process (PID=25085) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:20.101-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:38:20.101-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:20.101-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:20.122-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:20.699-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:20.699-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:20.711-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:20.711-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:38:20.729-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.631 seconds
+[2023-05-27T19:38:54.428-0500] {processor.py:157} INFO - Started process (PID=25108) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:54.432-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:38:54.433-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:54.433-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:54.458-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:38:55.029-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:55.029-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:55.040-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:55.040-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:38:55.053-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.626 seconds
+[2023-05-27T19:39:29.908-0500] {processor.py:157} INFO - Started process (PID=25129) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:39:29.912-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:39:29.913-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:29.913-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:39:29.939-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:39:30.535-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:30.534-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:39:30.547-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:30.547-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:39:30.559-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.651 seconds
+[2023-05-27T19:40:08.223-0500] {processor.py:157} INFO - Started process (PID=25150) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:08.227-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:40:08.228-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:08.228-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:08.256-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:08.831-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:08.831-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:40:08.845-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:08.845-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:40:08.859-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.636 seconds
+[2023-05-27T19:40:44.643-0500] {processor.py:157} INFO - Started process (PID=25171) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:44.646-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:40:44.646-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:44.646-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:44.667-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:40:45.247-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:45.247-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:40:45.258-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:45.258-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:40:45.272-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.630 seconds
+[2023-05-27T19:41:19.159-0500] {processor.py:157} INFO - Started process (PID=25192) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:19.163-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:41:19.164-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:19.164-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:19.188-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:19.803-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:19.803-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:19.817-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:19.817-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:41:19.832-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.673 seconds
+[2023-05-27T19:41:56.592-0500] {processor.py:157} INFO - Started process (PID=25221) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:56.596-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:41:56.596-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:56.596-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:56.618-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:41:57.214-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:57.214-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:57.226-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:57.226-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:41:57.240-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.649 seconds
+[2023-05-27T19:42:33.218-0500] {processor.py:157} INFO - Started process (PID=25260) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:42:33.223-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:42:33.223-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:33.223-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:42:33.250-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:42:33.881-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:33.880-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:42:33.894-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:33.893-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:42:33.907-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.689 seconds
+[2023-05-27T19:43:08.995-0500] {processor.py:157} INFO - Started process (PID=25282) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:08.999-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:43:08.999-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:08.999-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:09.025-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:09.626-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:09.626-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:43:09.637-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:09.637-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:43:09.650-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.655 seconds
+[2023-05-27T19:43:43.996-0500] {processor.py:157} INFO - Started process (PID=25303) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:43.999-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:43:44.000-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:43.999-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:44.021-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:43:44.608-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:44.608-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:43:44.619-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:44.619-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:43:44.633-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.637 seconds
+[2023-05-27T19:44:20.121-0500] {processor.py:157} INFO - Started process (PID=25325) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:20.125-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:44:20.125-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:20.125-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:20.150-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:20.759-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:20.759-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:20.772-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:20.772-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:44:20.788-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.668 seconds
+[2023-05-27T19:44:57.123-0500] {processor.py:157} INFO - Started process (PID=25347) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:57.127-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:44:57.128-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:57.128-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:57.154-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:44:57.743-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:57.743-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:57.755-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:57.755-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:44:57.768-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.645 seconds
+[2023-05-27T19:45:32.449-0500] {processor.py:157} INFO - Started process (PID=25372) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:45:32.452-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:45:32.452-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:32.452-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:45:32.474-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:45:33.040-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:33.040-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:45:33.051-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:33.051-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:45:33.068-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.619 seconds
+[2023-05-27T19:46:08.199-0500] {processor.py:157} INFO - Started process (PID=25397) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:08.203-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:46:08.203-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:08.203-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:08.228-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:08.814-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:08.814-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:46:08.826-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:08.825-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:46:08.839-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.641 seconds
+[2023-05-27T19:46:42.307-0500] {processor.py:157} INFO - Started process (PID=25430) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:42.310-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:46:42.310-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:42.310-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:42.331-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:46:42.930-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:42.930-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:46:42.945-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:42.944-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:46:42.959-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.652 seconds
+[2023-05-27T19:47:18.445-0500] {processor.py:157} INFO - Started process (PID=25455) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:18.448-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:47:18.449-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:18.448-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:18.469-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:19.036-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:19.035-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:19.047-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:19.047-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:47:19.059-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.615 seconds
+[2023-05-27T19:47:55.285-0500] {processor.py:157} INFO - Started process (PID=25480) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:55.288-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:47:55.289-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:55.289-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:55.310-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:47:55.878-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:55.878-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:55.889-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:55.889-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:47:55.906-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.622 seconds
+[2023-05-27T19:48:32.441-0500] {processor.py:157} INFO - Started process (PID=25502) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:48:32.444-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:48:32.445-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:32.445-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:48:32.467-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:48:33.060-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:33.060-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:48:33.071-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:33.071-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:48:33.085-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.645 seconds
+[2023-05-27T19:49:04.843-0500] {processor.py:157} INFO - Started process (PID=25527) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:04.846-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:49:04.847-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:04.847-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:04.867-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:05.437-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:05.437-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:49:05.448-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:05.448-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:49:05.461-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.618 seconds
+[2023-05-27T19:49:44.962-0500] {processor.py:157} INFO - Started process (PID=25560) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:44.966-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:49:44.967-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:44.966-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:44.994-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:49:45.941-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:45.940-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:49:45.979-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:45.979-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:49:45.994-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 1.033 seconds
+[2023-05-27T19:50:24.247-0500] {processor.py:157} INFO - Started process (PID=25598) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:50:24.256-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:50:24.257-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:24.257-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:50:24.336-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:50:25.204-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:25.203-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:50:25.221-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:25.220-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:50:25.239-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.993 seconds
+[2023-05-27T19:51:00.982-0500] {processor.py:157} INFO - Started process (PID=25625) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:00.987-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:51:00.987-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:00.987-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:01.013-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:01.625-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:01.624-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:51:01.636-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:01.636-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:51:01.649-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.668 seconds
+[2023-05-27T19:51:37.333-0500] {processor.py:157} INFO - Started process (PID=25652) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:37.338-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:51:37.339-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:37.338-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:37.366-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:51:37.980-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:37.979-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:51:37.992-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:37.991-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:51:38.004-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.671 seconds
+[2023-05-27T19:52:14.569-0500] {processor.py:157} INFO - Started process (PID=25687) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:14.573-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:52:14.573-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:14.573-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:14.600-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:15.212-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:15.212-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:15.224-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:15.224-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:52:15.241-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.673 seconds
+[2023-05-27T19:52:50.271-0500] {processor.py:157} INFO - Started process (PID=25718) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:50.274-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:52:50.275-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:50.275-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:50.296-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:52:50.955-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:50.954-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:50.967-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:50.967-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:52:50.979-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.709 seconds
+[2023-05-27T19:53:27.106-0500] {processor.py:157} INFO - Started process (PID=25741) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:53:27.110-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:53:27.110-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:27.110-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:53:27.136-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:53:27.810-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:27.810-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:53:27.824-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:27.824-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:53:27.837-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.732 seconds
+[2023-05-27T19:54:02.714-0500] {processor.py:157} INFO - Started process (PID=25765) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:02.718-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:54:02.719-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:02.719-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:02.745-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:03.363-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:03.362-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:54:03.374-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:03.374-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:54:03.386-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.673 seconds
+[2023-05-27T19:54:37.914-0500] {processor.py:157} INFO - Started process (PID=25790) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:37.918-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:54:37.918-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:37.918-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:37.940-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:54:38.539-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:38.538-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:54:38.553-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:38.552-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:54:38.567-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.653 seconds
+[2023-05-27T19:55:12.440-0500] {processor.py:157} INFO - Started process (PID=25815) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:12.443-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:55:12.444-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:12.444-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:12.466-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:13.066-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:13.066-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:13.078-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:13.078-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:55:13.092-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.652 seconds
+[2023-05-27T19:55:50.299-0500] {processor.py:157} INFO - Started process (PID=25846) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:50.304-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:55:50.304-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:50.304-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:50.329-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:55:50.924-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:50.924-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:50.935-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:50.935-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:55:50.948-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.649 seconds
+[2023-05-27T19:56:26.695-0500] {processor.py:157} INFO - Started process (PID=25872) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:56:26.698-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:56:26.699-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:26.698-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:56:26.719-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:56:27.293-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:27.293-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:56:27.305-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:27.305-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:56:27.322-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.627 seconds
+[2023-05-27T19:57:01.274-0500] {processor.py:157} INFO - Started process (PID=25898) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:01.277-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:57:01.277-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:01.277-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:01.300-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:01.979-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:01.979-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:57:01.991-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:01.991-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:57:02.003-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.730 seconds
+[2023-05-27T19:57:38.863-0500] {processor.py:157} INFO - Started process (PID=25924) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:38.866-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:57:38.866-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:38.866-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:38.889-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:57:39.604-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:39.604-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:57:39.616-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:39.616-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:57:39.631-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.769 seconds
+[2023-05-27T19:58:13.208-0500] {processor.py:157} INFO - Started process (PID=25949) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:13.211-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:58:13.211-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:13.211-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:13.232-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:13.808-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:13.807-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:13.819-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:13.819-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:58:13.833-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.625 seconds
+[2023-05-27T19:58:50.953-0500] {processor.py:157} INFO - Started process (PID=25978) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:50.956-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:58:50.957-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:50.957-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:50.978-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:58:51.568-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:51.568-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:51.580-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:51.579-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:58:51.596-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.643 seconds
+[2023-05-27T19:59:26.428-0500] {processor.py:157} INFO - Started process (PID=26005) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:59:26.431-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T19:59:26.432-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:26.432-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:59:26.453-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T19:59:27.080-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:27.080-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:59:27.093-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:27.093-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:59:27.107-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.679 seconds
+[2023-05-27T20:00:02.258-0500] {processor.py:157} INFO - Started process (PID=26029) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:02.261-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:00:02.262-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:02.261-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:02.283-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:02.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:02.856-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:00:02.867-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:02.867-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:00:02.884-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.627 seconds
+[2023-05-27T20:00:38.043-0500] {processor.py:157} INFO - Started process (PID=26056) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:38.046-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:00:38.047-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:38.047-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:38.067-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:00:38.656-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:38.656-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:00:38.671-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:38.671-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:00:38.687-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.645 seconds
+[2023-05-27T20:01:15.350-0500] {processor.py:157} INFO - Started process (PID=26088) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:15.354-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:01:15.354-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:15.354-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:15.380-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:16.075-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:16.075-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:16.089-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:16.089-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:01:16.103-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.754 seconds
+[2023-05-27T20:01:51.946-0500] {processor.py:157} INFO - Started process (PID=26116) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:51.950-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:01:51.950-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:51.950-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:51.975-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:01:52.613-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:52.613-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:52.626-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:52.626-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:01:52.639-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.693 seconds
+[2023-05-27T20:02:28.463-0500] {processor.py:157} INFO - Started process (PID=26139) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:02:28.466-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:02:28.467-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:28.466-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:02:28.491-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:02:29.123-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:29.123-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:02:29.138-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:29.138-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:02:29.152-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.690 seconds
+[2023-05-27T20:03:05.489-0500] {processor.py:157} INFO - Started process (PID=26168) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:05.492-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:03:05.493-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:05.493-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:05.518-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:06.163-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:06.163-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:03:06.178-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:06.178-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:03:06.192-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.704 seconds
+[2023-05-27T20:03:41.140-0500] {processor.py:157} INFO - Started process (PID=26195) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:41.143-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:03:41.144-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:41.144-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:41.165-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:03:41.798-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:41.797-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:03:41.809-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:41.809-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:03:41.823-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.683 seconds
+[2023-05-27T20:04:17.995-0500] {processor.py:157} INFO - Started process (PID=26220) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:17.998-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:04:17.999-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:17.999-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:18.024-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:18.664-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:18.664-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:18.678-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:18.678-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:04:18.692-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.698 seconds
+[2023-05-27T20:04:53.490-0500] {processor.py:157} INFO - Started process (PID=26243) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:53.494-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:04:53.494-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:53.494-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:53.521-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:04:54.192-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:54.192-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:54.206-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:54.206-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:04:54.221-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.731 seconds
+[2023-05-27T20:05:29.184-0500] {processor.py:157} INFO - Started process (PID=26264) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:05:29.187-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:05:29.188-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:29.188-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:05:29.210-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:05:29.827-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:29.826-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:05:29.838-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:29.838-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:05:29.853-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.669 seconds
+[2023-05-27T20:06:04.927-0500] {processor.py:157} INFO - Started process (PID=26288) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:04.930-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:06:04.931-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:04.931-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:04.956-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:05.600-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:05.600-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:06:05.613-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:05.613-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:06:05.628-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.702 seconds
+[2023-05-27T20:06:40.531-0500] {processor.py:157} INFO - Started process (PID=26310) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:40.534-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:06:40.534-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:40.534-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:40.558-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:06:41.169-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:41.169-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:06:41.183-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:41.183-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:06:41.197-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.667 seconds
+[2023-05-27T20:07:17.528-0500] {processor.py:157} INFO - Started process (PID=26334) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:17.531-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:07:17.532-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:17.532-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:17.555-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:18.157-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:18.157-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:18.193-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:18.193-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:07:18.208-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.681 seconds
+[2023-05-27T20:07:52.910-0500] {processor.py:157} INFO - Started process (PID=26359) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:52.914-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:07:52.914-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:52.914-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:52.940-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:07:53.548-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:53.548-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:53.561-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:53.561-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:07:53.576-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.666 seconds
+[2023-05-27T20:08:29.912-0500] {processor.py:157} INFO - Started process (PID=26383) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:08:29.915-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:08:29.915-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:29.915-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:08:29.937-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:08:30.598-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:30.598-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:08:30.613-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:30.613-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:08:30.629-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.717 seconds
+[2023-05-27T20:09:06.799-0500] {processor.py:157} INFO - Started process (PID=26407) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:06.802-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:09:06.803-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:06.803-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:06.826-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:07.424-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:07.424-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:09:07.437-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:07.437-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:09:07.451-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.652 seconds
+[2023-05-27T20:09:42.447-0500] {processor.py:157} INFO - Started process (PID=26432) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:42.450-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:09:42.451-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:42.451-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:42.475-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:09:43.081-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:43.081-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:09:43.093-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:43.093-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:09:43.106-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.659 seconds
+[2023-05-27T20:10:18.103-0500] {processor.py:157} INFO - Started process (PID=26455) to work on /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:10:18.106-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py for tasks to queue
+[2023-05-27T20:10:18.107-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:18.107-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:10:18.130-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_python_operator_v10']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py
+[2023-05-27T20:10:18.725-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:18.725-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:10:18.737-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:18.737-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_python_operator_v10 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:10:18.754-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_python_operator.py took 0.651 seconds

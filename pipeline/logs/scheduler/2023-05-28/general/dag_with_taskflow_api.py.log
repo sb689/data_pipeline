@@ -1,0 +1,1044 @@
+[2023-05-27T19:00:36.442-0500] {processor.py:157} INFO - Started process (PID=23559) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:00:36.445-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:00:36.446-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:36.446-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:00:36.479-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:36.479-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:00:36.480-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:36.480-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:00:36.485-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:00:37.056-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:37.056-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:00:37.068-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:37.068-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:00:37.080-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.639 seconds
+[2023-05-27T19:01:12.571-0500] {processor.py:157} INFO - Started process (PID=23582) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:12.574-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:01:12.575-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:12.575-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:12.607-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:12.607-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:01:12.607-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:12.607-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:01:12.611-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:13.257-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:13.257-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:13.272-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:13.272-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:01:13.286-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.716 seconds
+[2023-05-27T19:01:49.948-0500] {processor.py:157} INFO - Started process (PID=23608) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:49.953-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:01:49.953-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:49.953-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:50.006-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:50.006-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:01:50.006-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:50.006-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:01:50.012-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:01:50.655-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:50.655-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:50.669-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:50.669-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:01:50.682-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.736 seconds
+[2023-05-27T19:02:25.655-0500] {processor.py:157} INFO - Started process (PID=23634) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:02:25.658-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:02:25.659-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:25.659-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:02:25.687-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:25.687-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:02:25.687-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:25.687-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:02:25.691-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:02:26.265-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:26.264-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:02:26.278-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:26.278-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:02:26.290-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.635 seconds
+[2023-05-27T19:03:00.109-0500] {processor.py:157} INFO - Started process (PID=23655) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:00.112-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:03:00.113-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:00.113-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:00.143-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:00.143-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:03:00.143-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:00.143-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:03:00.147-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:00.740-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:00.740-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:03:00.752-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:00.752-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:03:00.764-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.656 seconds
+[2023-05-27T19:03:38.618-0500] {processor.py:157} INFO - Started process (PID=23695) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:38.622-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:03:38.623-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:38.623-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:38.669-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:38.669-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:03:38.670-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:38.669-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:03:38.674-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:03:39.313-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:39.313-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:03:39.328-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:39.328-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:03:39.342-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.725 seconds
+[2023-05-27T19:04:14.551-0500] {processor.py:157} INFO - Started process (PID=23716) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:14.556-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:04:14.557-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:14.556-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:14.606-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:14.606-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:04:14.606-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:14.606-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:04:14.611-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:15.349-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:15.349-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:15.365-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:15.364-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:04:15.380-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.829 seconds
+[2023-05-27T19:04:51.550-0500] {processor.py:157} INFO - Started process (PID=23741) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:51.555-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:04:51.555-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:51.555-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:51.599-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:51.599-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:04:51.599-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:51.599-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:04:51.604-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:04:52.264-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:52.264-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:52.278-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:52.278-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:04:52.292-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.742 seconds
+[2023-05-27T19:05:28.446-0500] {processor.py:157} INFO - Started process (PID=23763) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:05:28.450-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:05:28.451-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:28.451-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:05:28.496-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:28.496-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:05:28.497-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:28.496-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:05:28.501-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:05:29.120-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:29.120-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:05:29.138-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:29.138-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:05:29.154-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.708 seconds
+[2023-05-27T19:06:06.564-0500] {processor.py:157} INFO - Started process (PID=23788) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:06.568-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:06:06.569-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:06.568-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:06.613-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:06.613-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:06:06.613-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:06.613-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:06:06.618-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:07.253-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:07.253-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:06:07.266-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:07.266-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:06:07.279-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.715 seconds
+[2023-05-27T19:06:41.378-0500] {processor.py:157} INFO - Started process (PID=23810) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:41.382-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:06:41.382-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:41.382-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:41.415-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:41.415-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:06:41.416-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:41.416-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:06:41.420-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:06:42.030-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:42.029-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:06:42.044-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:42.044-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:06:42.056-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.679 seconds
+[2023-05-27T19:07:18.301-0500] {processor.py:157} INFO - Started process (PID=23834) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:18.305-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:07:18.305-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:18.305-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:18.340-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:18.340-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:07:18.340-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:18.340-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:07:18.345-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:18.977-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:18.977-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:18.991-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:18.991-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:07:19.004-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.703 seconds
+[2023-05-27T19:07:54.376-0500] {processor.py:157} INFO - Started process (PID=23857) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:54.381-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:07:54.382-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:54.382-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:54.419-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:54.419-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:07:54.420-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:54.419-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:07:54.424-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:07:55.148-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:55.148-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:55.163-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:55.163-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:07:55.178-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.802 seconds
+[2023-05-27T19:08:32.044-0500] {processor.py:157} INFO - Started process (PID=23878) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:08:32.048-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:08:32.048-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:32.048-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:08:32.089-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:32.089-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:08:32.090-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:32.089-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:08:32.094-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:08:32.732-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:32.731-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:08:32.746-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:32.746-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:08:32.759-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.715 seconds
+[2023-05-27T19:09:08.971-0500] {processor.py:157} INFO - Started process (PID=23914) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:08.975-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:09:08.976-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:08.976-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:09.018-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:09.018-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:09:09.019-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:09.018-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:09:09.023-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:09.636-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:09.635-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:09:09.650-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:09.650-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:09:09.667-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.696 seconds
+[2023-05-27T19:09:45.581-0500] {processor.py:157} INFO - Started process (PID=23936) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:45.585-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:09:45.585-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:45.585-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:45.624-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:45.624-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:09:45.624-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:45.624-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:09:45.629-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:09:46.370-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:46.370-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:09:46.385-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:46.385-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:09:46.398-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.818 seconds
+[2023-05-27T19:10:22.400-0500] {processor.py:157} INFO - Started process (PID=23957) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:22.403-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:10:22.404-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:22.404-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:22.437-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:22.437-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:10:22.438-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:22.438-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:10:22.442-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:23.053-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:23.053-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:10:23.067-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:23.067-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:10:23.079-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.680 seconds
+[2023-05-27T19:10:58.933-0500] {processor.py:157} INFO - Started process (PID=23986) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:58.937-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:10:58.937-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:58.937-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:58.972-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:58.972-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:10:58.972-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:58.972-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:10:58.977-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:10:59.645-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:59.645-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:10:59.660-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:59.660-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:10:59.673-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.741 seconds
+[2023-05-27T19:11:35.477-0500] {processor.py:157} INFO - Started process (PID=24017) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:11:35.481-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:11:35.482-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:35.482-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:11:35.525-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:35.525-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:11:35.525-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:35.525-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:11:35.530-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:11:36.137-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:36.137-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:11:36.150-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:36.150-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:11:36.164-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.688 seconds
+[2023-05-27T19:12:12.051-0500] {processor.py:157} INFO - Started process (PID=24041) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:12.055-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:12:12.056-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:12.055-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:12.108-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:12.108-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:12:12.109-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:12.108-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:12:12.113-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:12.730-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:12.729-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:12.754-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:12.754-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:12:12.769-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.719 seconds
+[2023-05-27T19:12:48.829-0500] {processor.py:157} INFO - Started process (PID=24062) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:48.833-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:12:48.834-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:48.834-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:48.869-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:48.869-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:12:48.869-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:48.869-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:12:48.874-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:12:49.520-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:49.520-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:49.534-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:49.534-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:12:49.549-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.720 seconds
+[2023-05-27T19:13:25.115-0500] {processor.py:157} INFO - Started process (PID=24084) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:13:25.123-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:13:25.125-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:25.124-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:13:25.196-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:25.196-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:13:25.196-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:25.196-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:13:25.202-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:13:25.953-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:25.953-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:13:25.970-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:25.970-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:13:25.984-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.870 seconds
+[2023-05-27T19:14:02.915-0500] {processor.py:157} INFO - Started process (PID=24115) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:02.919-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:14:02.920-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:02.920-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:02.967-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:02.967-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:14:02.967-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:02.967-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:14:02.972-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:03.737-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:03.736-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:14:03.756-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:03.756-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:14:03.776-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.862 seconds
+[2023-05-27T19:14:40.109-0500] {processor.py:157} INFO - Started process (PID=24139) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:40.114-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:14:40.114-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:40.114-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:40.163-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:40.163-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:14:40.163-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:40.163-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:14:40.168-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:14:40.825-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:40.825-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:14:40.839-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:40.839-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:14:40.853-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.744 seconds
+[2023-05-27T19:15:16.580-0500] {processor.py:157} INFO - Started process (PID=24165) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:16.583-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:15:16.584-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:16.583-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:16.617-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:16.617-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:15:16.617-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:16.617-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:15:16.622-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:17.236-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:17.236-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:17.250-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:17.250-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:15:17.263-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.684 seconds
+[2023-05-27T19:15:53.903-0500] {processor.py:157} INFO - Started process (PID=24188) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:53.907-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:15:53.908-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:53.908-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:53.955-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:53.955-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:15:53.956-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:53.956-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:15:53.961-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:15:54.634-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:54.634-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:54.649-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:54.649-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:15:54.662-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.760 seconds
+[2023-05-27T19:16:30.363-0500] {processor.py:157} INFO - Started process (PID=24210) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:16:30.367-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:16:30.367-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:30.367-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:16:30.402-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:30.402-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:16:30.402-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:30.402-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:16:30.407-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:16:31.018-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:31.018-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:16:31.032-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:31.032-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:16:31.049-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.686 seconds
+[2023-05-27T19:17:07.001-0500] {processor.py:157} INFO - Started process (PID=24233) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:07.005-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:17:07.005-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:07.005-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:07.040-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:07.040-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:17:07.040-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:07.040-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:17:07.045-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:07.676-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:07.676-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:17:07.690-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:07.690-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:17:07.703-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.702 seconds
+[2023-05-27T19:17:43.386-0500] {processor.py:157} INFO - Started process (PID=24263) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:43.390-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:17:43.391-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:43.391-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:43.439-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:43.439-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:17:43.439-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:43.439-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:17:43.444-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:17:44.076-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:44.076-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:17:44.091-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:44.091-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:17:44.104-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.719 seconds
+[2023-05-27T19:18:19.817-0500] {processor.py:157} INFO - Started process (PID=24292) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:19.822-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:18:19.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:19.822-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:19.867-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:19.867-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:18:19.868-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:19.867-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:18:19.873-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:20.528-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:20.528-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:20.543-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:20.543-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:18:20.559-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.742 seconds
+[2023-05-27T19:18:56.539-0500] {processor.py:157} INFO - Started process (PID=24318) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:56.543-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:18:56.543-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:56.543-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:56.586-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:56.586-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:18:56.586-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:56.586-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:18:56.591-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:18:57.252-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:57.252-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:57.267-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:57.267-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:18:57.280-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.741 seconds
+[2023-05-27T19:19:32.829-0500] {processor.py:157} INFO - Started process (PID=24352) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:19:32.832-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:19:32.833-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:32.832-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:19:32.873-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:32.873-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:19:32.873-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:32.873-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:19:32.878-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:19:33.498-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:33.498-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:19:33.512-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:33.512-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:19:33.525-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.697 seconds
+[2023-05-27T19:20:09.381-0500] {processor.py:157} INFO - Started process (PID=24375) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:09.385-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:20:09.386-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:09.386-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:09.430-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:09.430-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:20:09.430-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:09.430-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:20:09.435-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:10.091-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:10.091-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:20:10.106-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:10.106-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:20:10.119-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.739 seconds
+[2023-05-27T19:20:45.783-0500] {processor.py:157} INFO - Started process (PID=24397) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:45.786-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:20:45.786-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:45.786-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:45.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:45.822-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:20:45.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:45.822-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:20:45.827-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:20:46.461-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:46.461-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:20:46.476-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:46.476-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:20:46.490-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.708 seconds
+[2023-05-27T19:21:23.392-0500] {processor.py:157} INFO - Started process (PID=24419) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:21:23.396-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:21:23.397-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:23.397-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:21:23.444-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:23.444-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:21:23.445-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:23.445-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:21:23.449-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:21:24.080-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:24.080-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:21:24.095-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:24.094-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:21:24.107-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.716 seconds
+[2023-05-27T19:22:02.008-0500] {processor.py:157} INFO - Started process (PID=24442) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:02.013-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:22:02.013-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:02.013-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:02.062-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:02.062-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:22:02.062-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:02.062-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:22:02.067-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:02.727-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:02.727-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:22:02.740-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:02.740-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:22:02.754-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.746 seconds
+[2023-05-27T19:22:39.266-0500] {processor.py:157} INFO - Started process (PID=24476) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:39.271-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:22:39.271-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:39.271-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:39.315-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:39.315-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:22:39.315-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:39.315-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:22:39.320-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:22:39.976-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:39.976-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:22:39.991-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:39.991-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:22:40.005-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.739 seconds
+[2023-05-27T19:23:15.410-0500] {processor.py:157} INFO - Started process (PID=24498) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:15.415-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:23:15.416-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:15.416-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:15.464-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:15.464-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:23:15.464-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:15.464-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:23:15.469-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:16.067-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:16.067-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:16.081-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:16.081-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:23:16.094-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.684 seconds
+[2023-05-27T19:23:51.552-0500] {processor.py:157} INFO - Started process (PID=24520) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:51.556-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:23:51.556-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:51.556-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:51.592-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:51.592-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:23:51.592-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:51.592-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:23:51.597-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:23:52.255-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:52.255-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:52.270-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:52.270-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:23:52.283-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.732 seconds
+[2023-05-27T19:24:27.807-0500] {processor.py:157} INFO - Started process (PID=24547) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:24:27.812-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:24:27.812-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:27.812-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:24:27.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:27.856-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:24:27.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:27.856-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:24:27.861-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:24:28.478-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:28.478-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:24:28.492-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:28.492-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:24:28.505-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.699 seconds
+[2023-05-27T19:25:04.620-0500] {processor.py:157} INFO - Started process (PID=24570) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:04.624-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:25:04.625-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:04.625-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:04.670-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:04.670-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:25:04.670-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:04.670-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:25:04.675-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:05.431-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:05.431-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:25:05.446-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:05.446-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:25:05.459-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.840 seconds
+[2023-05-27T19:25:41.627-0500] {processor.py:157} INFO - Started process (PID=24593) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:41.632-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:25:41.632-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:41.632-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:41.678-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:41.677-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:25:41.678-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:41.678-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:25:41.682-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:25:42.302-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:42.302-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:25:42.316-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:42.316-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:25:42.330-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.704 seconds
+[2023-05-27T19:26:18.391-0500] {processor.py:157} INFO - Started process (PID=24616) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:18.396-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:26:18.396-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:18.396-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:18.441-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:18.441-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:26:18.441-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:18.441-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:26:18.446-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:19.081-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:19.081-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:19.096-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:19.096-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:26:19.109-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.718 seconds
+[2023-05-27T19:26:54.295-0500] {processor.py:157} INFO - Started process (PID=24639) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:54.299-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:26:54.299-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:54.299-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:54.337-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:54.336-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:26:54.337-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:54.337-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:26:54.343-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:26:55.015-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:55.014-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:55.042-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:55.042-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:26:55.073-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.778 seconds
+[2023-05-27T19:27:30.618-0500] {processor.py:157} INFO - Started process (PID=24664) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:27:30.622-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:27:30.622-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:30.622-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:27:30.657-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:30.657-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:27:30.657-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:30.657-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:27:30.662-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:27:31.343-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:31.342-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:27:31.358-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:31.358-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:27:31.372-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.754 seconds
+[2023-05-27T19:28:07.101-0500] {processor.py:157} INFO - Started process (PID=24688) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:07.104-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:28:07.105-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:07.105-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:07.138-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:07.138-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:28:07.138-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:07.138-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:28:07.143-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:07.771-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:07.771-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:28:07.785-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:07.785-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:28:07.800-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.700 seconds
+[2023-05-27T19:28:44.063-0500] {processor.py:157} INFO - Started process (PID=24713) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:44.067-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:28:44.067-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:44.067-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:44.101-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:44.101-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:28:44.102-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:44.102-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:28:44.107-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:28:44.764-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:44.764-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:28:44.779-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:44.779-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:28:44.793-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.730 seconds
+[2023-05-27T19:29:21.706-0500] {processor.py:157} INFO - Started process (PID=24735) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:21.710-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:29:21.710-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:21.710-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:21.745-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:21.745-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:29:21.745-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:21.745-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:29:21.750-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:22.390-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:22.389-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:29:22.404-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:22.404-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:29:22.417-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.711 seconds
+[2023-05-27T19:29:58.056-0500] {processor.py:157} INFO - Started process (PID=24762) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:58.060-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:29:58.061-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:58.061-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:58.106-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:58.106-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:29:58.106-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:58.106-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:29:58.111-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:29:58.710-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:58.709-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:29:58.723-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:58.723-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:29:58.737-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.682 seconds
+[2023-05-27T19:30:33.826-0500] {processor.py:157} INFO - Started process (PID=24789) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:30:33.830-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:30:33.830-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:33.830-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:30:33.865-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:33.865-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:30:33.866-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:33.866-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:30:33.871-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:30:34.543-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:34.543-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:30:34.559-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:34.559-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:30:34.575-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.750 seconds
+[2023-05-27T19:31:11.221-0500] {processor.py:157} INFO - Started process (PID=24813) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:11.226-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:31:11.227-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:11.227-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:11.276-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:11.276-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:31:11.276-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:11.276-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:31:11.281-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:11.890-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:11.889-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:11.902-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:11.902-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:31:11.916-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.695 seconds
+[2023-05-27T19:31:49.209-0500] {processor.py:157} INFO - Started process (PID=24838) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:49.213-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:31:49.213-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:49.213-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:49.255-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:49.255-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:31:49.256-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:49.255-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:31:49.260-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:31:49.844-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:49.844-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:49.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:49.856-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:31:49.868-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.660 seconds
+[2023-05-27T19:32:22.134-0500] {processor.py:157} INFO - Started process (PID=24862) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:22.138-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:32:22.138-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:22.138-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:22.186-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:22.185-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:32:22.186-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:22.186-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:32:22.190-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:22.764-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:22.763-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:32:22.776-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:22.776-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:32:22.790-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.657 seconds
+[2023-05-27T19:32:58.865-0500] {processor.py:157} INFO - Started process (PID=24885) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:58.869-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:32:58.869-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:58.869-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:58.898-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:58.898-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:32:58.898-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:58.898-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:32:58.902-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:32:59.472-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:59.472-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:32:59.485-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:59.484-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:32:59.498-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.633 seconds
+[2023-05-27T19:33:32.459-0500] {processor.py:157} INFO - Started process (PID=24907) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:33:32.462-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:33:32.462-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:32.462-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:33:32.491-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:32.491-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:33:32.491-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:32.491-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:33:32.495-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:33:33.065-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:33.065-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:33:33.077-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:33.077-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:33:33.088-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.630 seconds
+[2023-05-27T19:34:07.829-0500] {processor.py:157} INFO - Started process (PID=24928) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:07.832-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:34:07.833-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:07.833-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:07.861-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:07.861-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:34:07.862-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:07.862-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:34:07.865-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:08.435-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:08.435-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:34:08.448-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:08.448-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:34:08.461-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.633 seconds
+[2023-05-27T19:34:42.911-0500] {processor.py:157} INFO - Started process (PID=24950) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:42.914-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:34:42.915-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:42.915-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:42.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:42.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:34:42.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:42.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:34:42.948-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:34:43.518-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:43.518-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:34:43.531-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:43.531-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:34:43.543-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.633 seconds
+[2023-05-27T19:35:18.498-0500] {processor.py:157} INFO - Started process (PID=24971) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:18.501-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:35:18.501-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:18.501-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:18.530-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:18.529-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:35:18.530-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:18.530-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:35:18.533-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:19.103-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:19.103-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:19.116-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:19.116-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:35:19.127-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.629 seconds
+[2023-05-27T19:35:53.676-0500] {processor.py:157} INFO - Started process (PID=24993) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:53.679-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:35:53.679-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:53.679-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:53.707-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:53.707-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:35:53.707-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:53.707-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:35:53.711-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:35:54.282-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:54.282-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:54.294-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:54.294-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:35:54.306-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.631 seconds
+[2023-05-27T19:36:28.944-0500] {processor.py:157} INFO - Started process (PID=25014) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:36:28.947-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:36:28.947-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:28.947-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:36:28.976-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:28.976-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:36:28.976-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:28.976-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:36:28.980-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:36:29.564-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:29.563-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:36:29.582-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:29.581-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:36:29.597-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.653 seconds
+[2023-05-27T19:37:04.925-0500] {processor.py:157} INFO - Started process (PID=25037) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:04.928-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:37:04.928-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:04.928-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:04.957-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:04.957-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:37:04.957-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:04.957-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:37:04.961-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:05.534-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:05.534-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:37:05.546-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:05.546-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:37:05.559-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.634 seconds
+[2023-05-27T19:37:40.262-0500] {processor.py:157} INFO - Started process (PID=25060) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:40.265-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:37:40.265-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:40.265-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:40.295-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:40.295-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:37:40.296-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:40.296-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:37:40.300-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:37:40.874-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:40.874-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:37:40.887-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:40.887-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:37:40.899-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.638 seconds
+[2023-05-27T19:38:17.604-0500] {processor.py:157} INFO - Started process (PID=25084) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:17.608-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:38:17.608-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:17.608-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:17.637-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:17.637-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:38:17.637-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:17.637-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:38:17.641-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:18.217-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:18.217-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:18.229-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:18.229-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:38:18.242-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.638 seconds
+[2023-05-27T19:38:51.893-0500] {processor.py:157} INFO - Started process (PID=25107) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:51.898-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:38:51.899-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:51.898-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:51.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:51.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:38:51.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:51.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:38:51.949-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:38:52.544-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:52.544-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:52.556-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:52.556-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:38:52.568-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.675 seconds
+[2023-05-27T19:39:27.392-0500] {processor.py:157} INFO - Started process (PID=25128) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:39:27.396-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:39:27.396-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:27.396-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:39:27.438-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:27.438-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:39:27.438-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:27.438-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:39:27.443-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:39:28.022-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:28.021-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:39:28.033-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:28.033-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:39:28.045-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.654 seconds
+[2023-05-27T19:40:05.707-0500] {processor.py:157} INFO - Started process (PID=25149) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:05.710-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:40:05.711-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:05.711-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:05.759-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:05.759-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:40:05.759-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:05.759-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:40:05.764-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:06.347-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:06.347-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:40:06.359-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:06.359-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:40:06.370-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.664 seconds
+[2023-05-27T19:40:42.080-0500] {processor.py:157} INFO - Started process (PID=25170) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:42.084-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:40:42.084-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:42.084-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:42.119-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:42.119-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:40:42.119-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:42.119-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:40:42.124-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:40:42.719-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:42.719-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:40:42.734-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:42.733-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:40:42.748-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.668 seconds
+[2023-05-27T19:41:16.619-0500] {processor.py:157} INFO - Started process (PID=25191) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:16.623-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:41:16.624-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:16.624-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:16.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:16.665-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:41:16.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:16.665-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:41:16.670-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:17.242-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:17.242-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:17.256-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:17.256-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:41:17.271-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.652 seconds
+[2023-05-27T19:41:54.081-0500] {processor.py:157} INFO - Started process (PID=25220) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:54.086-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:41:54.086-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:54.086-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:54.131-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:54.131-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:41:54.132-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:54.131-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:41:54.136-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:41:54.709-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:54.709-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:54.721-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:54.721-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:41:54.733-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.652 seconds
+[2023-05-27T19:42:31.001-0500] {processor.py:157} INFO - Started process (PID=25258) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:42:31.005-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:42:31.006-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:31.005-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:42:31.052-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:31.052-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:42:31.052-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:31.052-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:42:31.057-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:42:31.679-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:31.679-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:42:31.691-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:31.691-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:42:31.707-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.706 seconds
+[2023-05-27T19:43:06.509-0500] {processor.py:157} INFO - Started process (PID=25281) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:06.512-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:43:06.512-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:06.512-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:06.542-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:06.542-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:43:06.542-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:06.542-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:43:06.546-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:07.129-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:07.129-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:43:07.141-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:07.141-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:43:07.154-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.646 seconds
+[2023-05-27T19:43:41.433-0500] {processor.py:157} INFO - Started process (PID=25302) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:41.437-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:43:41.438-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:41.437-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:41.470-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:41.470-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:43:41.471-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:41.470-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:43:41.475-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:43:42.092-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:42.092-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:43:42.106-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:42.106-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:43:42.122-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.689 seconds
+[2023-05-27T19:44:17.391-0500] {processor.py:157} INFO - Started process (PID=25324) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:17.394-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:44:17.395-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:17.394-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:17.425-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:17.425-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:44:17.425-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:17.425-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:44:17.429-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:18.025-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:18.025-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:18.038-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:18.037-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:44:18.049-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.659 seconds
+[2023-05-27T19:44:54.637-0500] {processor.py:157} INFO - Started process (PID=25346) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:54.640-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:44:54.640-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:54.640-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:54.668-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:54.668-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:44:54.668-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:54.668-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:44:54.672-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:44:55.239-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:55.239-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:55.251-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:55.251-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:44:55.263-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.626 seconds
+[2023-05-27T19:45:29.939-0500] {processor.py:157} INFO - Started process (PID=25371) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:45:29.942-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:45:29.942-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:29.942-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:45:29.971-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:29.971-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:45:29.971-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:29.971-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:45:29.975-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:45:30.576-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:30.576-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:45:30.588-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:30.588-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:45:30.600-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.662 seconds
+[2023-05-27T19:46:05.640-0500] {processor.py:157} INFO - Started process (PID=25396) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:05.643-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:46:05.644-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:05.644-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:05.674-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:05.674-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:46:05.674-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:05.674-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:46:05.678-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:06.255-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:06.254-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:46:06.267-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:06.267-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:46:06.280-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.640 seconds
+[2023-05-27T19:46:39.803-0500] {processor.py:157} INFO - Started process (PID=25429) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:39.806-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:46:39.806-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:39.806-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:39.836-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:39.836-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:46:39.836-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:39.836-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:46:39.840-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:46:40.416-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:40.416-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:46:40.428-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:40.428-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:46:40.441-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.638 seconds
+[2023-05-27T19:47:15.951-0500] {processor.py:157} INFO - Started process (PID=25454) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:15.954-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:47:15.954-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:15.954-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:15.984-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:15.984-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:47:15.984-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:15.984-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:47:15.988-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:16.558-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:16.558-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:16.570-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:16.570-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:47:16.582-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.632 seconds
+[2023-05-27T19:47:52.720-0500] {processor.py:157} INFO - Started process (PID=25479) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:52.723-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:47:52.724-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:52.724-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:52.753-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:52.753-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:47:52.753-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:52.753-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:47:52.757-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:47:53.346-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:53.346-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:53.358-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:53.358-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:47:53.374-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.654 seconds
+[2023-05-27T19:48:29.834-0500] {processor.py:157} INFO - Started process (PID=25501) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:48:29.837-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:48:29.837-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:29.837-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:48:29.867-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:29.867-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:48:29.867-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:29.867-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:48:29.871-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:48:30.506-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:30.506-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:48:30.520-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:30.520-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:48:30.534-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.700 seconds
+[2023-05-27T19:49:03.289-0500] {processor.py:157} INFO - Started process (PID=25526) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:03.292-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:49:03.292-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:03.292-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:03.320-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:03.320-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:49:03.320-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:03.320-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:49:03.324-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:03.897-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:03.897-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:49:03.910-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:03.910-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:49:03.926-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.637 seconds
+[2023-05-27T19:49:41.961-0500] {processor.py:157} INFO - Started process (PID=25555) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:41.970-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:49:41.971-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:41.971-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:42.052-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:42.052-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:49:42.053-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:42.053-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:49:42.060-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:49:43.544-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:43.544-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:49:43.568-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:43.568-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:49:43.592-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 1.633 seconds
+[2023-05-27T19:50:21.182-0500] {processor.py:157} INFO - Started process (PID=25597) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:21.186-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:50:21.186-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:21.186-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:21.235-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:21.235-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:50:21.235-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:21.235-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:50:21.240-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:21.914-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:21.913-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:50:21.930-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:21.930-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:50:21.946-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.765 seconds
+[2023-05-27T19:50:58.201-0500] {processor.py:157} INFO - Started process (PID=25624) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:58.206-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:50:58.206-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:58.206-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:58.252-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:58.252-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:50:58.253-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:58.253-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:50:58.258-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:50:58.890-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:58.890-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:50:58.903-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:58.903-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:50:58.916-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.716 seconds
+[2023-05-27T19:51:34.761-0500] {processor.py:157} INFO - Started process (PID=25651) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:51:34.765-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:51:34.766-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:34.766-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:51:34.811-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:34.811-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:51:34.811-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:34.811-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:51:34.816-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:51:35.411-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:35.411-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:51:35.424-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:35.424-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:51:35.438-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.677 seconds
+[2023-05-27T19:52:12.014-0500] {processor.py:157} INFO - Started process (PID=25683) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:12.019-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:52:12.019-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:12.019-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:12.066-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:12.065-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:52:12.066-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:12.066-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:52:12.071-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:12.664-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:12.664-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:12.678-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:12.677-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:52:12.691-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.677 seconds
+[2023-05-27T19:52:47.705-0500] {processor.py:157} INFO - Started process (PID=25717) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:47.709-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:52:47.709-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:47.709-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:47.737-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:47.737-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:52:47.737-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:47.737-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:52:47.741-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:52:48.307-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:48.307-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:48.319-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:48.319-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:52:48.333-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.629 seconds
+[2023-05-27T19:53:24.354-0500] {processor.py:157} INFO - Started process (PID=25740) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:53:24.357-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:53:24.358-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:24.357-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:53:24.391-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:24.391-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:53:24.404-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:24.404-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:53:24.413-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:53:25.092-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:25.092-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:53:25.105-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:25.105-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:53:25.117-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.764 seconds
+[2023-05-27T19:54:00.142-0500] {processor.py:157} INFO - Started process (PID=25764) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:00.145-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:54:00.145-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:00.145-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:00.175-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:00.174-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:54:00.175-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:00.175-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:54:00.179-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:00.788-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:00.788-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:54:00.801-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:00.801-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:54:00.817-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.675 seconds
+[2023-05-27T19:54:35.187-0500] {processor.py:157} INFO - Started process (PID=25789) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:35.190-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:54:35.190-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:35.190-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:35.221-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:35.221-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:54:35.221-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:35.221-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:54:35.225-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:54:35.836-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:35.836-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:54:35.850-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:35.850-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:54:35.863-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.677 seconds
+[2023-05-27T19:55:10.401-0500] {processor.py:157} INFO - Started process (PID=25814) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:10.405-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:55:10.405-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:10.405-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:10.435-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:10.435-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:55:10.435-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:10.435-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:55:10.439-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:10.991-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:10.990-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:11.002-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:11.002-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:55:11.014-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.613 seconds
+[2023-05-27T19:55:47.690-0500] {processor.py:157} INFO - Started process (PID=25845) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:47.695-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:55:47.696-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:47.695-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:47.747-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:47.747-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:55:47.747-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:47.747-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:55:47.752-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:55:48.385-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:48.385-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:48.400-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:48.400-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:55:48.412-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.723 seconds
+[2023-05-27T19:56:24.220-0500] {processor.py:157} INFO - Started process (PID=25871) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:24.223-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:56:24.223-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:24.223-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:24.252-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:24.251-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:56:24.252-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:24.252-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:56:24.256-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:24.829-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:24.829-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:56:24.841-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:24.841-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:56:24.853-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.634 seconds
+[2023-05-27T19:56:58.654-0500] {processor.py:157} INFO - Started process (PID=25897) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:58.658-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:56:58.659-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:58.659-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:58.693-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:58.693-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:56:58.694-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:58.693-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:56:58.698-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:56:59.322-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:59.322-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:56:59.338-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:59.338-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:56:59.353-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.699 seconds
+[2023-05-27T19:57:36.286-0500] {processor.py:157} INFO - Started process (PID=25923) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:57:36.290-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:57:36.290-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:36.290-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:57:36.321-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:36.321-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:57:36.321-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:36.321-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:57:36.326-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:57:36.929-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:36.929-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:57:36.941-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:36.941-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:57:36.954-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.668 seconds
+[2023-05-27T19:58:10.689-0500] {processor.py:157} INFO - Started process (PID=25948) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:10.692-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:58:10.692-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:10.692-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:10.722-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:10.721-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:58:10.722-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:10.722-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:58:10.726-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:11.310-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:11.310-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:11.322-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:11.322-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:58:11.335-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.647 seconds
+[2023-05-27T19:58:49.083-0500] {processor.py:157} INFO - Started process (PID=25977) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:49.087-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:58:49.087-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:49.087-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:49.123-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:49.123-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:58:49.123-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:49.123-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:58:49.128-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:58:49.722-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:49.722-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:49.735-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:49.735-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:58:49.746-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.663 seconds
+[2023-05-27T19:59:23.912-0500] {processor.py:157} INFO - Started process (PID=26004) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:59:23.915-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:59:23.915-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:23.915-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:59:23.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:23.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:59:23.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:23.944-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:59:23.948-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:59:24.514-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:24.513-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:59:24.529-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:24.529-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T19:59:24.543-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.632 seconds
+[2023-05-27T19:59:59.755-0500] {processor.py:157} INFO - Started process (PID=26028) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:59:59.758-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T19:59:59.758-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:59.758-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T19:59:59.787-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:59.787-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:59:59.787-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:59.787-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T19:59:59.791-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:00:00.370-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:00.370-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:00:00.383-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:00.383-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:00:00.399-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.645 seconds
+[2023-05-27T20:00:35.483-0500] {processor.py:157} INFO - Started process (PID=26055) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:00:35.486-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:00:35.486-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:35.486-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:00:35.514-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:35.514-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:00:35.515-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:35.515-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:00:35.519-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:00:36.084-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:36.084-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:00:36.098-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:36.097-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:00:36.111-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.628 seconds
+[2023-05-27T20:01:13.359-0500] {processor.py:157} INFO - Started process (PID=26087) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:13.362-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:01:13.362-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:13.362-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:13.392-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:13.391-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:01:13.392-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:13.392-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:01:13.397-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:14.006-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:14.005-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:14.020-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:14.020-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:01:14.032-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.674 seconds
+[2023-05-27T20:01:49.236-0500] {processor.py:157} INFO - Started process (PID=26115) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:49.240-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:01:49.240-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:49.240-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:49.273-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:49.273-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:01:49.273-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:49.273-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:01:49.278-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:01:49.937-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:49.937-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:49.955-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:49.954-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:01:49.974-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.738 seconds
+[2023-05-27T20:02:25.735-0500] {processor.py:157} INFO - Started process (PID=26138) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:02:25.739-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:02:25.739-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:25.739-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:02:25.771-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:25.771-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:02:25.771-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:25.771-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:02:25.775-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:02:26.433-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:26.432-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:02:26.449-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:26.449-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:02:26.464-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.730 seconds
+[2023-05-27T20:03:02.577-0500] {processor.py:157} INFO - Started process (PID=26166) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:02.581-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:03:02.581-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:02.581-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:02.615-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:02.615-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:03:02.616-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:02.616-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:03:02.620-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:03.282-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:03.281-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:03:03.296-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:03.296-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:03:03.310-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.733 seconds
+[2023-05-27T20:03:38.585-0500] {processor.py:157} INFO - Started process (PID=26194) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:38.588-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:03:38.589-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:38.589-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:38.619-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:38.619-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:03:38.619-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:38.619-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:03:38.623-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:03:39.224-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:39.224-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:03:39.236-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:39.236-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:03:39.249-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.664 seconds
+[2023-05-27T20:04:14.937-0500] {processor.py:157} INFO - Started process (PID=26216) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:14.941-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:04:14.942-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:14.942-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:14.992-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:14.992-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:04:14.992-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:14.992-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:04:14.998-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:16.006-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:16.005-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:16.022-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:16.022-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:04:16.036-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 1.100 seconds
+[2023-05-27T20:04:50.779-0500] {processor.py:157} INFO - Started process (PID=26242) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:50.783-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:04:50.783-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:50.783-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:50.821-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:50.821-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:04:50.821-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:50.821-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:04:50.826-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:04:51.517-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:51.517-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:51.532-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:51.532-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:04:51.545-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.767 seconds
+[2023-05-27T20:05:26.534-0500] {processor.py:157} INFO - Started process (PID=26263) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:05:26.537-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:05:26.538-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:26.538-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:05:26.575-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:26.575-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:05:26.575-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:26.575-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:05:26.580-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:05:27.206-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:27.205-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:05:27.221-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:27.221-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:05:27.234-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.701 seconds
+[2023-05-27T20:06:02.250-0500] {processor.py:157} INFO - Started process (PID=26287) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:02.253-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:06:02.253-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:02.253-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:02.284-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:02.284-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:06:02.284-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:02.284-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:06:02.288-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:02.952-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:02.952-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:06:02.967-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:02.966-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:06:02.981-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.731 seconds
+[2023-05-27T20:06:37.974-0500] {processor.py:157} INFO - Started process (PID=26309) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:37.977-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:06:37.978-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:37.978-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:38.011-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:38.011-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:06:38.012-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:38.012-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:06:38.016-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:06:38.620-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:38.619-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:06:38.633-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:38.633-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:06:38.645-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.672 seconds
+[2023-05-27T20:07:14.880-0500] {processor.py:157} INFO - Started process (PID=26333) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:14.883-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:07:14.884-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:14.884-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:14.914-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:14.914-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:07:14.914-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:14.914-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:07:14.919-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:15.576-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:15.575-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:15.588-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:15.588-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:07:15.601-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.722 seconds
+[2023-05-27T20:07:50.314-0500] {processor.py:157} INFO - Started process (PID=26358) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:50.318-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:07:50.318-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:50.318-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:50.352-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:50.352-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:07:50.352-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:50.352-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:07:50.356-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:07:50.987-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:50.986-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:51.000-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:50.999-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:07:51.012-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.699 seconds
+[2023-05-27T20:08:27.296-0500] {processor.py:157} INFO - Started process (PID=26382) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:08:27.300-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:08:27.300-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:27.300-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:08:27.335-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:27.335-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:08:27.335-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:27.335-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:08:27.340-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:08:28.000-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:27.999-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:08:28.015-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:28.015-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:08:28.029-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.734 seconds
+[2023-05-27T20:09:04.269-0500] {processor.py:157} INFO - Started process (PID=26406) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:04.272-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:09:04.272-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:04.272-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:04.302-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:04.302-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:09:04.302-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:04.302-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:09:04.306-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:04.908-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:04.908-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:09:04.921-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:04.921-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:09:04.934-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.666 seconds
+[2023-05-27T20:09:39.908-0500] {processor.py:157} INFO - Started process (PID=26431) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:39.911-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:09:39.911-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:39.911-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:39.943-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:39.943-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:09:39.943-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:39.943-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:09:39.947-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:09:40.531-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:40.531-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:09:40.543-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:40.543-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:09:40.556-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.649 seconds
+[2023-05-27T20:10:15.579-0500] {processor.py:157} INFO - Started process (PID=26454) to work on /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:10:15.583-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py for tasks to queue
+[2023-05-27T20:10:15.584-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:15.584-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:10:15.618-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:15.618-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): get_name>, greet already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:10:15.618-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:15.618-0500] {taskmixin.py:211} WARNING - Dependency <Task(_PythonDecoratedOperator): greet>, get_name already registered for DAG: dag_with_taskflow_api_v06
+[2023-05-27T20:10:15.623-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dag_with_taskflow_api_v06']) retrieved from /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py
+[2023-05-27T20:10:16.216-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:16.215-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:10:16.228-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:16.228-0500] {dag.py:3486} INFO - Setting next_dagrun for dag_with_taskflow_api_v06 to 2022-11-15T00:00:00+00:00, run_after=2022-11-16T00:00:00+00:00
+[2023-05-27T20:10:16.241-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/general/dag_with_taskflow_api.py took 0.662 seconds

@@ -1,0 +1,26 @@
+[2023-05-27T11:09:15.725-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: stock_etf_analysis_dag_v_06.stage3_ml_task manual__2023-05-27T16:08:32.820595+00:00 [queued]>
+[2023-05-27T11:09:15.730-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: stock_etf_analysis_dag_v_06.stage3_ml_task manual__2023-05-27T16:08:32.820595+00:00 [queued]>
+[2023-05-27T11:09:15.730-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 2
+[2023-05-27T11:09:15.739-0500] {taskinstance.py:1327} INFO - Executing <Task(SparkSubmitOperator): stage3_ml_task> on 2023-05-27 16:08:32.820595+00:00
+[2023-05-27T11:09:15.741-0500] {standard_task_runner.py:57} INFO - Started process 8298 to run task
+[2023-05-27T11:09:15.746-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'stock_etf_analysis_dag_v_06', 'stage3_ml_task', 'manual__2023-05-27T16:08:32.820595+00:00', '--job-id', '77', '--raw', '--subdir', 'DAGS_FOLDER/assignment/stock-analysis.py', '--cfg-path', '/var/folders/rj/4j_wg7hj631gk16sz5z2gtzc0000gn/T/tmp52apf5eo']
+[2023-05-27T11:09:15.748-0500] {standard_task_runner.py:85} INFO - Job 77: Subtask stage3_ml_task
+[2023-05-27T11:09:15.779-0500] {task_command.py:410} INFO - Running <TaskInstance: stock_etf_analysis_dag_v_06.stage3_ml_task manual__2023-05-27T16:08:32.820595+00:00 [running]> on host sujatas-mbp-2
+[2023-05-27T11:09:15.826-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='sb' AIRFLOW_CTX_DAG_ID='stock_etf_analysis_dag_v_06' AIRFLOW_CTX_TASK_ID='stage3_ml_task' AIRFLOW_CTX_EXECUTION_DATE='2023-05-27T16:08:32.820595+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-05-27T16:08:32.820595+00:00'
+[2023-05-27T11:09:15.830-0500] {base.py:73} INFO - Using connection ID 'spark_stand_alone' for task execution.
+[2023-05-27T11:09:15.832-0500] {spark_submit.py:339} INFO - Spark-Submit cmd: spark-submit --master local[*] --name arrow-spark --queue root.default ./airflow/dags/assignment/ml_integrate_stage3.py
+[2023-05-27T11:09:18.992-0500] {spark_submit.py:490} INFO - data =====================
+[2023-05-27T11:09:18.993-0500] {spark_submit.py:490} INFO - (5779, 11)
+[2023-05-27T11:09:19.005-0500] {spark_submit.py:490} INFO - Date       Open  ...  vol_moving_avg  adj_close_rolling_med
+[2023-05-27T11:09:19.006-0500] {spark_submit.py:490} INFO - 5774  2020-03-26  59.619999  ...    2.263937e+06              65.066000
+[2023-05-27T11:09:19.006-0500] {spark_submit.py:490} INFO - 5775  2020-03-27  58.330002  ...    2.252637e+06              64.573000
+[2023-05-27T11:09:19.007-0500] {spark_submit.py:490} INFO - 5776  2020-03-30  58.560001  ...    2.277397e+06              64.117000
+[2023-05-27T11:09:19.007-0500] {spark_submit.py:490} INFO - 5777  2020-03-31  59.509998  ...    2.284137e+06              63.688333
+[2023-05-27T11:09:19.007-0500] {spark_submit.py:490} INFO - 5778  2020-04-01  58.040001  ...    2.334583e+06              63.154666
+[2023-05-27T11:09:19.007-0500] {spark_submit.py:490} INFO - 
+[2023-05-27T11:09:19.008-0500] {spark_submit.py:490} INFO - [5 rows x 11 columns]
+[2023-05-27T11:09:20.034-0500] {spark_submit.py:490} INFO - 23/05/27 11:09:20 INFO ShutdownHookManager: Shutdown hook called
+[2023-05-27T11:09:20.037-0500] {spark_submit.py:490} INFO - 23/05/27 11:09:20 INFO ShutdownHookManager: Deleting directory /private/var/folders/rj/4j_wg7hj631gk16sz5z2gtzc0000gn/T/spark-c6b3695b-4354-4cf7-a933-159d6dce5b8c
+[2023-05-27T11:09:20.086-0500] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=stock_etf_analysis_dag_v_06, task_id=stage3_ml_task, execution_date=20230527T160832, start_date=20230527T160915, end_date=20230527T160920
+[2023-05-27T11:09:20.114-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-05-27T11:09:20.147-0500] {taskinstance.py:2651} INFO - 0 downstream tasks scheduled from follow-on schedule check

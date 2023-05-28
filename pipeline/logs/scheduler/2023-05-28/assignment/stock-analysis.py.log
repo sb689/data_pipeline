@@ -1,0 +1,819 @@
+[2023-05-27T19:00:27.381-0500] {processor.py:157} INFO - Started process (PID=23555) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:00:27.385-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:00:27.385-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:27.385-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:00:27.405-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:00:28.039-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:28.039-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:00:28.051-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:28.050-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:00:28.067-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.686 seconds
+[2023-05-27T19:01:03.527-0500] {processor.py:157} INFO - Started process (PID=23578) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:03.531-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:01:03.531-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:03.531-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:03.548-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:04.174-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:04.174-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:04.187-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:04.187-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:01:04.202-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.675 seconds
+[2023-05-27T19:01:40.185-0500] {processor.py:157} INFO - Started process (PID=23604) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:40.188-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:01:40.189-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:40.189-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:40.230-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:01:40.988-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:40.988-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:01:41.001-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:41.001-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:01:41.015-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.831 seconds
+[2023-05-27T19:02:15.522-0500] {processor.py:157} INFO - Started process (PID=23630) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:15.524-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:02:15.525-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:15.525-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:15.542-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:16.133-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:16.133-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:02:16.143-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:16.143-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:02:16.157-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.636 seconds
+[2023-05-27T19:02:50.921-0500] {processor.py:157} INFO - Started process (PID=23651) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:50.924-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:02:50.924-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:50.924-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:50.941-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:02:51.532-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:51.531-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:02:51.542-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:51.542-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:02:51.559-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.639 seconds
+[2023-05-27T19:03:26.931-0500] {processor.py:157} INFO - Started process (PID=23675) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:03:26.935-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:03:26.935-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:26.935-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:03:26.957-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:03:27.949-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:27.948-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:03:27.992-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:27.991-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:03:28.017-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 1.086 seconds
+[2023-05-27T19:04:03.796-0500] {processor.py:157} INFO - Started process (PID=23712) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:03.801-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:04:03.801-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:03.801-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:03.836-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:04.513-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:04.513-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:04.526-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:04.525-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:04:04.541-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.746 seconds
+[2023-05-27T19:04:40.506-0500] {processor.py:157} INFO - Started process (PID=23734) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:40.511-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:04:40.511-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:40.511-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:40.540-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:04:41.220-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:41.219-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:04:41.235-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:41.235-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:04:41.253-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.747 seconds
+[2023-05-27T19:05:17.553-0500] {processor.py:157} INFO - Started process (PID=23758) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:17.557-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:05:17.558-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:17.557-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:17.588-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:18.265-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:18.265-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:05:18.279-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:18.279-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:05:18.294-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.742 seconds
+[2023-05-27T19:05:55.670-0500] {processor.py:157} INFO - Started process (PID=23784) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:55.675-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:05:55.675-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:55.675-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:55.704-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:05:56.391-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:56.390-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:05:56.404-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:56.404-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:05:56.419-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.749 seconds
+[2023-05-27T19:06:32.083-0500] {processor.py:157} INFO - Started process (PID=23806) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:06:32.086-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:06:32.087-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:32.087-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:06:32.106-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:06:32.773-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:32.773-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:06:32.785-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:32.785-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:06:32.800-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.718 seconds
+[2023-05-27T19:07:07.626-0500] {processor.py:157} INFO - Started process (PID=23827) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:07.630-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:07:07.630-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:07.630-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:07.649-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:08.290-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:08.290-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:08.303-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:08.303-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:07:08.320-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.694 seconds
+[2023-05-27T19:07:43.353-0500] {processor.py:157} INFO - Started process (PID=23852) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:43.356-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:07:43.357-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:43.357-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:43.375-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:07:44.040-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:44.040-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:07:44.091-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:44.091-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:07:44.107-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.755 seconds
+[2023-05-27T19:08:20.425-0500] {processor.py:157} INFO - Started process (PID=23874) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:20.429-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:08:20.430-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:20.430-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:20.462-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:21.194-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:21.194-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:08:21.211-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:21.211-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:08:21.231-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.807 seconds
+[2023-05-27T19:08:57.830-0500] {processor.py:157} INFO - Started process (PID=23907) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:57.835-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:08:57.835-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:57.835-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:57.866-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:08:58.642-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:58.642-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:08:58.656-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:58.656-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:08:58.671-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.842 seconds
+[2023-05-27T19:09:34.759-0500] {processor.py:157} INFO - Started process (PID=23932) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:09:34.763-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:09:34.763-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:34.763-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:09:34.788-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:09:35.468-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:35.467-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:09:35.480-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:35.480-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:09:35.495-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.737 seconds
+[2023-05-27T19:10:11.635-0500] {processor.py:157} INFO - Started process (PID=23953) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:11.639-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:10:11.639-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:11.639-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:11.660-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:12.346-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:12.346-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:10:12.359-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:12.359-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:10:12.375-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.741 seconds
+[2023-05-27T19:10:47.713-0500] {processor.py:157} INFO - Started process (PID=23981) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:47.717-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:10:47.717-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:47.717-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:47.740-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:10:48.437-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:48.437-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:10:48.451-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:48.451-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:10:48.467-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.755 seconds
+[2023-05-27T19:11:24.648-0500] {processor.py:157} INFO - Started process (PID=24012) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:11:24.653-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:11:24.654-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:24.653-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:11:24.685-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:11:25.399-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:25.399-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:11:25.412-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:25.412-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:11:25.429-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.781 seconds
+[2023-05-27T19:12:01.336-0500] {processor.py:157} INFO - Started process (PID=24034) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:01.341-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:12:01.342-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:01.342-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:01.375-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:02.092-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:02.092-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:02.106-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:02.106-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:12:02.121-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.785 seconds
+[2023-05-27T19:12:37.636-0500] {processor.py:157} INFO - Started process (PID=24058) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:37.640-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:12:37.640-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:37.640-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:37.660-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:12:38.307-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:38.307-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:12:38.320-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:38.320-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:12:38.335-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.699 seconds
+[2023-05-27T19:13:14.161-0500] {processor.py:157} INFO - Started process (PID=24080) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:14.165-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:13:14.165-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:14.165-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:14.199-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:14.913-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:14.912-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:13:14.926-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:14.926-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:13:14.941-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.781 seconds
+[2023-05-27T19:13:51.871-0500] {processor.py:157} INFO - Started process (PID=24105) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:51.875-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:13:51.876-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:51.876-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:51.910-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:13:52.601-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:52.601-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:13:52.614-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:52.614-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:13:52.629-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.759 seconds
+[2023-05-27T19:14:29.118-0500] {processor.py:157} INFO - Started process (PID=24135) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:14:29.123-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:14:29.123-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:29.123-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:14:29.153-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:14:29.857-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:29.857-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:14:29.871-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:29.871-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:14:29.890-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.772 seconds
+[2023-05-27T19:15:05.924-0500] {processor.py:157} INFO - Started process (PID=24159) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:05.928-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:15:05.929-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:05.929-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:05.953-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:06.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:06.665-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:06.678-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:06.678-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:15:06.694-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.771 seconds
+[2023-05-27T19:15:42.787-0500] {processor.py:157} INFO - Started process (PID=24184) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:42.792-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:15:42.792-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:42.792-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:42.823-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:15:43.488-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:43.488-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:15:43.501-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:43.501-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:15:43.519-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.732 seconds
+[2023-05-27T19:16:19.580-0500] {processor.py:157} INFO - Started process (PID=24206) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:19.584-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:16:19.584-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:19.584-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:19.604-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:20.258-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:20.258-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:16:20.271-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:20.270-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:16:20.285-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.705 seconds
+[2023-05-27T19:16:56.004-0500] {processor.py:157} INFO - Started process (PID=24229) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:56.008-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:16:56.009-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:56.009-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:56.029-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:16:56.723-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:56.722-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:16:56.736-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:56.736-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:16:56.749-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.745 seconds
+[2023-05-27T19:17:32.897-0500] {processor.py:157} INFO - Started process (PID=24258) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:17:32.901-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:17:32.902-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:32.902-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:17:32.932-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:17:33.605-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:33.604-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:17:33.617-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:33.617-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:17:33.634-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.738 seconds
+[2023-05-27T19:18:09.098-0500] {processor.py:157} INFO - Started process (PID=24285) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:09.103-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:18:09.103-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:09.103-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:09.136-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:09.813-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:09.813-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:09.825-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:09.825-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:18:09.840-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.743 seconds
+[2023-05-27T19:18:45.438-0500] {processor.py:157} INFO - Started process (PID=24312) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:45.441-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:18:45.442-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:45.442-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:45.468-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:18:46.175-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:46.175-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:18:46.189-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:46.189-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:18:46.205-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.768 seconds
+[2023-05-27T19:19:21.786-0500] {processor.py:157} INFO - Started process (PID=24343) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:21.790-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:19:21.790-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:21.790-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:21.812-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:22.469-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:22.469-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:19:22.482-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:22.482-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:19:22.497-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.712 seconds
+[2023-05-27T19:19:58.533-0500] {processor.py:157} INFO - Started process (PID=24371) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:58.537-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:19:58.538-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:58.538-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:58.573-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:19:59.276-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:59.276-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:19:59.290-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:59.290-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:19:59.305-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.773 seconds
+[2023-05-27T19:20:34.750-0500] {processor.py:157} INFO - Started process (PID=24392) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:20:34.754-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:20:34.754-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:34.754-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:20:34.774-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:20:35.506-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:35.506-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:20:35.519-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:35.519-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:20:35.536-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.786 seconds
+[2023-05-27T19:21:12.182-0500] {processor.py:157} INFO - Started process (PID=24415) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:12.186-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:21:12.187-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:12.187-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:12.223-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:13.185-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:13.184-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:21:13.208-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:13.208-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:21:13.235-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 1.054 seconds
+[2023-05-27T19:21:50.871-0500] {processor.py:157} INFO - Started process (PID=24438) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:50.876-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:21:50.877-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:50.876-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:50.913-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:21:51.651-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:51.651-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:21:51.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:51.665-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:21:51.679-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.809 seconds
+[2023-05-27T19:22:27.934-0500] {processor.py:157} INFO - Started process (PID=24464) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:22:27.939-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:22:27.939-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:27.939-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:22:27.973-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:22:28.911-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:28.911-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:22:28.924-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:28.924-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:22:28.939-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 1.005 seconds
+[2023-05-27T19:23:04.871-0500] {processor.py:157} INFO - Started process (PID=24494) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:04.876-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:23:04.876-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:04.876-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:04.913-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:05.644-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:05.644-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:05.657-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:05.657-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:23:05.674-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.803 seconds
+[2023-05-27T19:23:40.738-0500] {processor.py:157} INFO - Started process (PID=24516) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:40.741-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:23:40.742-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:40.742-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:40.761-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:23:41.412-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:41.412-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:23:41.425-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:41.425-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:23:41.440-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.702 seconds
+[2023-05-27T19:24:17.082-0500] {processor.py:157} INFO - Started process (PID=24542) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:17.086-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:24:17.087-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:17.087-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:17.122-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:17.806-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:17.806-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:24:17.819-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:17.819-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:24:17.834-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.753 seconds
+[2023-05-27T19:24:53.482-0500] {processor.py:157} INFO - Started process (PID=24564) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:53.486-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:24:53.486-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:53.486-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:53.521-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:24:54.215-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:54.214-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:24:54.227-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:54.227-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:24:54.242-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.761 seconds
+[2023-05-27T19:25:30.917-0500] {processor.py:157} INFO - Started process (PID=24588) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:25:30.921-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:25:30.921-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:30.921-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:25:30.952-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:25:31.642-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:31.642-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:25:31.655-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:31.655-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:25:31.671-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.755 seconds
+[2023-05-27T19:26:07.589-0500] {processor.py:157} INFO - Started process (PID=24612) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:07.593-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:26:07.593-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:07.593-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:07.622-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:08.305-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:08.305-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:08.319-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:08.319-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:26:08.334-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.746 seconds
+[2023-05-27T19:26:43.598-0500] {processor.py:157} INFO - Started process (PID=24634) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:43.602-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:26:43.603-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:43.603-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:43.623-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:26:44.310-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:44.310-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:26:44.324-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:44.324-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:26:44.339-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.742 seconds
+[2023-05-27T19:27:19.515-0500] {processor.py:157} INFO - Started process (PID=24659) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:19.518-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:27:19.519-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:19.519-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:19.536-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:20.190-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:20.190-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:27:20.202-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:20.202-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:27:20.216-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.702 seconds
+[2023-05-27T19:27:55.988-0500] {processor.py:157} INFO - Started process (PID=24682) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:55.992-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:27:55.993-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:55.993-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:56.019-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:27:57.034-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:57.034-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:27:57.050-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:57.050-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:27:57.069-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 1.081 seconds
+[2023-05-27T19:28:32.785-0500] {processor.py:157} INFO - Started process (PID=24708) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:28:32.789-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:28:32.789-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:32.789-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:28:32.810-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:28:33.547-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:33.547-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:28:33.562-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:33.562-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:28:33.578-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.794 seconds
+[2023-05-27T19:29:09.866-0500] {processor.py:157} INFO - Started process (PID=24731) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:09.869-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:29:09.870-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:09.870-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:09.890-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:10.547-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:10.547-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:29:10.560-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:10.560-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:29:10.575-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.710 seconds
+[2023-05-27T19:29:47.220-0500] {processor.py:157} INFO - Started process (PID=24757) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:47.225-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:29:47.225-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:47.225-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:47.260-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:29:47.958-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:47.958-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:29:47.971-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:47.971-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:29:47.987-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.767 seconds
+[2023-05-27T19:30:23.049-0500] {processor.py:157} INFO - Started process (PID=24783) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:30:23.052-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:30:23.053-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:23.053-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:30:23.072-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:30:23.713-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:23.712-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:30:23.725-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:23.725-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:30:23.740-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.692 seconds
+[2023-05-27T19:31:00.453-0500] {processor.py:157} INFO - Started process (PID=24809) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:00.457-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:31:00.458-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:00.457-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:00.496-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:01.159-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:01.159-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:01.172-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:01.171-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:31:01.185-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.733 seconds
+[2023-05-27T19:31:36.971-0500] {processor.py:157} INFO - Started process (PID=24831) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:36.976-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:31:36.976-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:36.976-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:37.009-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:31:37.757-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:37.756-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:31:37.771-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:37.771-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:31:37.792-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.821 seconds
+[2023-05-27T19:32:12.984-0500] {processor.py:157} INFO - Started process (PID=24858) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:12.989-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:32:12.989-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:12.989-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:13.027-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:13.749-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:13.748-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:32:13.761-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:13.761-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:32:13.775-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.791 seconds
+[2023-05-27T19:32:48.017-0500] {processor.py:157} INFO - Started process (PID=24880) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:48.020-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:32:48.021-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:48.021-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:48.038-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:32:48.622-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:48.622-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:32:48.633-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:48.632-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:32:48.650-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.634 seconds
+[2023-05-27T19:33:23.451-0500] {processor.py:157} INFO - Started process (PID=24902) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:23.454-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:33:23.454-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:23.454-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:23.471-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:24.053-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:24.053-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:33:24.063-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:24.063-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:33:24.080-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.630 seconds
+[2023-05-27T19:33:58.788-0500] {processor.py:157} INFO - Started process (PID=24924) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:58.791-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:33:58.792-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:58.792-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:58.811-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:33:59.393-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:59.392-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:33:59.403-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:59.403-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:33:59.420-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.633 seconds
+[2023-05-27T19:34:33.955-0500] {processor.py:157} INFO - Started process (PID=24946) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:34:33.958-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:34:33.958-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:33.958-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:34:33.975-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:34:34.565-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:34.565-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:34:34.576-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:34.576-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:34:34.589-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.634 seconds
+[2023-05-27T19:35:09.230-0500] {processor.py:157} INFO - Started process (PID=24967) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:09.233-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:35:09.233-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:09.233-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:09.249-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:09.835-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:09.835-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:09.845-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:09.845-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:35:09.858-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.629 seconds
+[2023-05-27T19:35:44.695-0500] {processor.py:157} INFO - Started process (PID=24989) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:44.698-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:35:44.698-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:44.698-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:44.715-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:35:45.312-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:45.311-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:35:45.323-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:45.323-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:35:45.341-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.646 seconds
+[2023-05-27T19:36:20.013-0500] {processor.py:157} INFO - Started process (PID=25010) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:20.016-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:36:20.016-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:20.016-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:20.034-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:20.616-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:20.616-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:36:20.627-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:20.626-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:36:20.643-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.631 seconds
+[2023-05-27T19:36:55.945-0500] {processor.py:157} INFO - Started process (PID=25033) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:55.948-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:36:55.948-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:55.948-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:55.967-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:36:56.562-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:56.562-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:36:56.573-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:56.573-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:36:56.586-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.641 seconds
+[2023-05-27T19:37:31.192-0500] {processor.py:157} INFO - Started process (PID=25056) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:37:31.195-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:37:31.196-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:31.195-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:37:31.214-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:37:31.838-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:31.838-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:37:31.849-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:31.849-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:37:31.861-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.670 seconds
+[2023-05-27T19:38:07.048-0500] {processor.py:157} INFO - Started process (PID=25077) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:07.051-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:38:07.051-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:07.051-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:07.069-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:07.657-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:07.656-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:07.667-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:07.667-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:38:07.682-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.635 seconds
+[2023-05-27T19:38:42.843-0500] {processor.py:157} INFO - Started process (PID=25103) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:42.847-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:38:42.847-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:42.847-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:42.886-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:38:43.514-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:43.514-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:38:43.527-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:43.527-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:38:43.541-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.698 seconds
+[2023-05-27T19:39:18.402-0500] {processor.py:157} INFO - Started process (PID=25124) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:18.407-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:39:18.407-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:18.407-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:18.435-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:19.046-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:19.046-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:39:19.058-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:19.058-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:39:19.070-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.668 seconds
+[2023-05-27T19:39:55.568-0500] {processor.py:157} INFO - Started process (PID=25145) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:55.572-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:39:55.573-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:55.573-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:55.608-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:39:56.239-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:56.239-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:39:56.252-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:56.251-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:39:56.266-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.698 seconds
+[2023-05-27T19:40:31.489-0500] {processor.py:157} INFO - Started process (PID=25166) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:40:31.508-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:40:31.510-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:31.510-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:40:31.534-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:40:32.156-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:32.156-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:40:32.170-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:32.170-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:40:32.185-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.697 seconds
+[2023-05-27T19:41:07.573-0500] {processor.py:157} INFO - Started process (PID=25187) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:07.577-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:41:07.578-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:07.578-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:07.608-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:08.232-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:08.232-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:08.245-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:08.245-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:41:08.260-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.687 seconds
+[2023-05-27T19:41:43.801-0500] {processor.py:157} INFO - Started process (PID=25211) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:43.806-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:41:43.807-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:43.807-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:43.844-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:41:44.527-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:44.527-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:41:44.540-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:44.540-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:41:44.555-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.754 seconds
+[2023-05-27T19:42:20.479-0500] {processor.py:157} INFO - Started process (PID=25245) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:20.483-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:42:20.483-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:20.483-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:20.513-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:21.214-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:21.214-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:42:21.227-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:21.227-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:42:21.242-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.764 seconds
+[2023-05-27T19:42:56.595-0500] {processor.py:157} INFO - Started process (PID=25276) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:56.598-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:42:56.598-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:56.598-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:56.615-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:42:57.207-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:57.207-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:42:57.219-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:57.219-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:42:57.234-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.640 seconds
+[2023-05-27T19:43:32.580-0500] {processor.py:157} INFO - Started process (PID=25298) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:43:32.584-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:43:32.584-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:32.584-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:43:32.604-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:43:33.243-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:33.242-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:43:33.254-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:33.254-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:43:33.268-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.689 seconds
+[2023-05-27T19:44:08.412-0500] {processor.py:157} INFO - Started process (PID=25320) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:08.415-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:44:08.415-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:08.415-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:08.432-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:09.044-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:09.044-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:09.055-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:09.055-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:44:09.070-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.658 seconds
+[2023-05-27T19:44:44.391-0500] {processor.py:157} INFO - Started process (PID=25342) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:44.394-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:44:44.395-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:44.395-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:44.413-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:44:45.033-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:45.033-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:44:45.043-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:45.043-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:44:45.057-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.666 seconds
+[2023-05-27T19:45:19.851-0500] {processor.py:157} INFO - Started process (PID=25365) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:19.854-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:45:19.854-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:19.854-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:19.871-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:20.465-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:20.465-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:45:20.476-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:20.476-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:45:20.490-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.640 seconds
+[2023-05-27T19:45:55.388-0500] {processor.py:157} INFO - Started process (PID=25391) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:55.391-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:45:55.392-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:55.391-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:55.408-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:45:56.018-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:56.018-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:45:56.029-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:56.029-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:45:56.042-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.655 seconds
+[2023-05-27T19:46:30.829-0500] {processor.py:157} INFO - Started process (PID=25425) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:46:30.832-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:46:30.832-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:30.832-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:46:30.849-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:46:31.451-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:31.451-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:46:31.463-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:31.463-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:46:31.479-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.650 seconds
+[2023-05-27T19:47:06.937-0500] {processor.py:157} INFO - Started process (PID=25448) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:06.941-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:47:06.941-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:06.941-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:06.959-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:07.560-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:07.560-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:07.571-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:07.571-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:47:07.587-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.651 seconds
+[2023-05-27T19:47:43.606-0500] {processor.py:157} INFO - Started process (PID=25475) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:43.610-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:47:43.610-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:43.610-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:43.630-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:47:44.264-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:44.263-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:47:44.275-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:44.275-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:47:44.289-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.683 seconds
+[2023-05-27T19:48:19.194-0500] {processor.py:157} INFO - Started process (PID=25497) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:19.197-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:48:19.197-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:19.197-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:19.214-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:19.818-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:19.818-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:48:19.829-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:19.829-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:48:19.843-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.650 seconds
+[2023-05-27T19:48:54.303-0500] {processor.py:157} INFO - Started process (PID=25522) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:54.306-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:48:54.306-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:54.306-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:54.322-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:48:54.920-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:54.920-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:48:54.931-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:54.930-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:48:54.945-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.643 seconds
+[2023-05-27T19:49:30.870-0500] {processor.py:157} INFO - Started process (PID=25548) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:49:30.873-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:49:30.874-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:30.874-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:49:30.891-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:49:31.540-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:31.540-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:49:31.552-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:31.552-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:49:31.564-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.694 seconds
+[2023-05-27T19:50:10.050-0500] {processor.py:157} INFO - Started process (PID=25587) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:10.054-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:50:10.054-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:10.054-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:10.087-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:10.751-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:10.751-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:50:10.764-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:10.764-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:50:10.778-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.729 seconds
+[2023-05-27T19:50:47.475-0500] {processor.py:157} INFO - Started process (PID=25620) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:47.480-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:50:47.480-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:47.480-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:47.511-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:50:48.200-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:48.200-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:50:48.214-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:48.214-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:50:48.229-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.754 seconds
+[2023-05-27T19:51:24.382-0500] {processor.py:157} INFO - Started process (PID=25647) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:51:24.387-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:51:24.387-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:24.387-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:51:24.420-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:51:25.075-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:25.075-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:51:25.088-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:25.088-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:51:25.102-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.720 seconds
+[2023-05-27T19:52:00.851-0500] {processor.py:157} INFO - Started process (PID=25669) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:00.856-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:52:00.857-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:00.857-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:00.891-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:01.912-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:01.911-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:01.937-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:01.936-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:52:01.970-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 1.120 seconds
+[2023-05-27T19:52:37.288-0500] {processor.py:157} INFO - Started process (PID=25710) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:37.291-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:52:37.292-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:37.291-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:37.310-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:52:37.953-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:37.953-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:52:37.965-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:37.965-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:52:37.982-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.695 seconds
+[2023-05-27T19:53:13.449-0500] {processor.py:157} INFO - Started process (PID=25736) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:13.452-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:53:13.453-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:13.453-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:13.470-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:14.111-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:14.111-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:53:14.122-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:14.122-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:53:14.136-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.688 seconds
+[2023-05-27T19:53:49.433-0500] {processor.py:157} INFO - Started process (PID=25759) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:49.436-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:53:49.436-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:49.436-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:49.457-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:53:50.098-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:50.098-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:53:50.109-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:50.109-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:53:50.125-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.693 seconds
+[2023-05-27T19:54:25.083-0500] {processor.py:157} INFO - Started process (PID=25785) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:54:25.087-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:54:25.087-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:25.087-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:54:25.105-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:54:25.716-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:25.715-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:54:25.727-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:25.726-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:54:25.741-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.658 seconds
+[2023-05-27T19:55:01.290-0500] {processor.py:157} INFO - Started process (PID=25808) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:01.293-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:55:01.294-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:01.294-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:01.311-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:01.962-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:01.962-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:01.974-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:01.974-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:55:01.989-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.699 seconds
+[2023-05-27T19:55:37.468-0500] {processor.py:157} INFO - Started process (PID=25837) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:37.472-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:55:37.473-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:37.473-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:37.508-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:55:38.207-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:38.206-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:55:38.220-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:38.220-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:55:38.236-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.769 seconds
+[2023-05-27T19:56:13.930-0500] {processor.py:157} INFO - Started process (PID=25862) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:13.934-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:56:13.934-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:13.934-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:13.952-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:14.555-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:14.555-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:56:14.566-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:14.566-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:56:14.579-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.649 seconds
+[2023-05-27T19:56:49.353-0500] {processor.py:157} INFO - Started process (PID=25890) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:49.356-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:56:49.356-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:49.356-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:49.376-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:56:50.026-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:50.026-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:56:50.037-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:50.037-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:56:50.052-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.700 seconds
+[2023-05-27T19:57:25.896-0500] {processor.py:157} INFO - Started process (PID=25919) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:57:25.899-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:57:25.900-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:25.900-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:57:25.919-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:57:26.562-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:26.561-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:57:26.572-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:26.572-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:57:26.585-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.689 seconds
+[2023-05-27T19:58:01.661-0500] {processor.py:157} INFO - Started process (PID=25944) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:01.664-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:58:01.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:01.665-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:01.683-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:02.287-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:02.287-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:02.298-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:02.298-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:58:02.311-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.651 seconds
+[2023-05-27T19:58:37.694-0500] {processor.py:157} INFO - Started process (PID=25967) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:37.700-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:58:37.700-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:37.700-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:37.731-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:58:38.662-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:38.661-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:58:38.675-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:38.675-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:58:38.691-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.999 seconds
+[2023-05-27T19:59:13.621-0500] {processor.py:157} INFO - Started process (PID=26000) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:13.625-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:59:13.625-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:13.625-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:13.645-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:14.325-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:14.324-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:59:14.337-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:14.337-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:59:14.352-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.731 seconds
+[2023-05-27T19:59:49.341-0500] {processor.py:157} INFO - Started process (PID=26024) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:49.345-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T19:59:49.345-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:49.345-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:49.362-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T19:59:49.992-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:49.992-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T19:59:50.003-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:50.003-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T19:59:50.017-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.676 seconds
+[2023-05-27T20:00:25.107-0500] {processor.py:157} INFO - Started process (PID=26050) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:00:25.110-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:00:25.110-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:25.110-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:00:25.127-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:00:25.736-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:25.736-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:00:25.747-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:25.747-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:00:25.764-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.657 seconds
+[2023-05-27T20:01:01.818-0500] {processor.py:157} INFO - Started process (PID=26076) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:01.821-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:01:01.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:01.822-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:01.843-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:02.631-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:02.631-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:02.645-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:02.645-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:01:02.662-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.845 seconds
+[2023-05-27T20:01:38.593-0500] {processor.py:157} INFO - Started process (PID=26110) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:38.597-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:01:38.598-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:38.597-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:38.618-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:01:39.359-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:39.359-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:01:39.375-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:39.375-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:01:39.393-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.801 seconds
+[2023-05-27T20:02:14.882-0500] {processor.py:157} INFO - Started process (PID=26134) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:14.886-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:02:14.886-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:14.886-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:14.907-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:15.558-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:15.558-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:02:15.569-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:15.569-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:02:15.584-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.703 seconds
+[2023-05-27T20:02:51.538-0500] {processor.py:157} INFO - Started process (PID=26155) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:51.542-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:02:51.542-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:51.542-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:51.564-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:02:52.303-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:52.303-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:02:52.324-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:52.324-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:02:52.345-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.807 seconds
+[2023-05-27T20:03:28.304-0500] {processor.py:157} INFO - Started process (PID=26189) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:03:28.307-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:03:28.308-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:28.308-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:03:28.327-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:03:28.969-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:28.969-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:03:28.980-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:28.980-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:03:28.993-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.690 seconds
+[2023-05-27T20:04:04.008-0500] {processor.py:157} INFO - Started process (PID=26211) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:04.011-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:04:04.012-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:04.012-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:04.029-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:04.665-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:04.665-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:04.677-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:04.677-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:04:04.690-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.682 seconds
+[2023-05-27T20:04:40.217-0500] {processor.py:157} INFO - Started process (PID=26238) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:40.220-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:04:40.221-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:40.221-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:40.240-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:04:40.887-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:40.887-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:04:40.899-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:40.899-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:04:40.916-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.699 seconds
+[2023-05-27T20:05:15.909-0500] {processor.py:157} INFO - Started process (PID=26259) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:15.913-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:05:15.913-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:15.913-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:15.934-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:16.592-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:16.591-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:05:16.604-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:16.604-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:05:16.619-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.710 seconds
+[2023-05-27T20:05:51.542-0500] {processor.py:157} INFO - Started process (PID=26281) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:51.545-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:05:51.546-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:51.546-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:51.565-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:05:52.206-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:52.205-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:05:52.217-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:52.217-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:05:52.231-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.690 seconds
+[2023-05-27T20:06:27.557-0500] {processor.py:157} INFO - Started process (PID=26304) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:06:27.561-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:06:27.561-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:27.561-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:06:27.582-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:06:28.235-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:28.235-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:06:28.248-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:28.248-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:06:28.263-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.707 seconds
+[2023-05-27T20:07:04.220-0500] {processor.py:157} INFO - Started process (PID=26327) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:04.224-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:07:04.224-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:04.224-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:04.246-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:04.890-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:04.890-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:04.902-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:04.902-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:07:04.920-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.700 seconds
+[2023-05-27T20:07:39.829-0500] {processor.py:157} INFO - Started process (PID=26354) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:39.833-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:07:39.833-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:39.833-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:39.851-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:07:40.495-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:40.495-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:07:40.506-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:40.506-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:07:40.519-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.691 seconds
+[2023-05-27T20:08:16.380-0500] {processor.py:157} INFO - Started process (PID=26377) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:16.384-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:08:16.385-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:16.385-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:16.406-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:17.109-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:17.109-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:08:17.122-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:17.122-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:08:17.138-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.758 seconds
+[2023-05-27T20:08:53.340-0500] {processor.py:157} INFO - Started process (PID=26401) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:53.344-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:08:53.344-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:53.344-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:53.363-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:08:54.005-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:54.005-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:08:54.016-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:54.016-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:08:54.031-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.691 seconds
+[2023-05-27T20:09:29.669-0500] {processor.py:157} INFO - Started process (PID=26427) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:09:29.673-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:09:29.673-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:29.673-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:09:29.690-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:09:30.305-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:30.305-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:09:30.317-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:30.317-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:09:30.332-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.663 seconds
+[2023-05-27T20:10:05.390-0500] {processor.py:157} INFO - Started process (PID=26449) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:05.393-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:10:05.394-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:05.393-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:05.411-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:06.016-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:06.015-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:10:06.026-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:06.026-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:10:06.040-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.651 seconds
+[2023-05-27T20:10:41.690-0500] {processor.py:157} INFO - Started process (PID=26474) to work on /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:41.693-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py for tasks to queue
+[2023-05-27T20:10:41.694-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:41.694-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:41.714-0500] {processor.py:836} INFO - DAG(s) dict_keys(['stock_etf_analysis_dag_v_06']) retrieved from /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py
+[2023-05-27T20:10:42.405-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:42.404-0500] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-27T20:10:42.418-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:42.418-0500] {dag.py:3486} INFO - Setting next_dagrun for stock_etf_analysis_dag_v_06 to None, run_after=None
+[2023-05-27T20:10:42.435-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/stock-analysis.py took 0.746 seconds

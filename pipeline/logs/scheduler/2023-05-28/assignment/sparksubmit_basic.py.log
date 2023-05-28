@@ -1,0 +1,702 @@
+[2023-05-27T19:00:20.442-0500] {processor.py:157} INFO - Started process (PID=23537) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:00:20.446-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:00:20.446-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:20.446-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:00:24.705-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:00:24.706-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:00:25.414-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.972 seconds
+[2023-05-27T19:00:56.494-0500] {processor.py:157} INFO - Started process (PID=23562) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:00:56.497-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:00:56.498-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:00:56.498-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:01:00.841-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:01:00.842-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:01:01.536-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.043 seconds
+[2023-05-27T19:01:32.632-0500] {processor.py:157} INFO - Started process (PID=23590) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:01:32.635-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:01:32.636-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:01:32.636-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:01:36.973-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:01:36.974-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:01:38.063-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.432 seconds
+[2023-05-27T19:02:09.133-0500] {processor.py:157} INFO - Started process (PID=23616) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:09.136-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:02:09.136-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:09.136-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:13.050-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:02:13.050-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:13.637-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.504 seconds
+[2023-05-27T19:02:44.682-0500] {processor.py:157} INFO - Started process (PID=23637) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:44.686-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:02:44.686-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:02:44.686-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:48.473-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:02:48.473-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:02:49.035-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.353 seconds
+[2023-05-27T19:03:20.074-0500] {processor.py:157} INFO - Started process (PID=23658) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:03:20.077-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:03:20.077-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:20.077-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:03:24.163-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:03:24.163-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:03:24.911-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.838 seconds
+[2023-05-27T19:03:56.293-0500] {processor.py:157} INFO - Started process (PID=23698) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:03:56.297-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:03:56.298-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:03:56.297-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:04:00.864-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:04:00.865-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:04:01.864-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.571 seconds
+[2023-05-27T19:04:33.275-0500] {processor.py:157} INFO - Started process (PID=23720) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:04:33.279-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:04:33.279-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:04:33.279-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:04:37.680-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:04:37.680-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:04:38.568-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.294 seconds
+[2023-05-27T19:05:10.167-0500] {processor.py:157} INFO - Started process (PID=23744) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:10.171-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:05:10.171-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:10.171-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:14.455-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:05:14.455-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:15.425-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.258 seconds
+[2023-05-27T19:05:47.329-0500] {processor.py:157} INFO - Started process (PID=23769) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:47.333-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:05:47.334-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:05:47.334-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:52.594-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:05:52.595-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:05:53.565-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 6.236 seconds
+[2023-05-27T19:06:25.034-0500] {processor.py:157} INFO - Started process (PID=23792) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:06:25.038-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:06:25.038-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:06:25.038-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:06:29.438-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:06:29.438-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:06:30.095-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.062 seconds
+[2023-05-27T19:07:01.195-0500] {processor.py:157} INFO - Started process (PID=23813) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:01.199-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:07:01.199-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:01.199-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:05.111-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:07:05.111-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:05.692-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.497 seconds
+[2023-05-27T19:07:36.810-0500] {processor.py:157} INFO - Started process (PID=23838) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:36.817-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:07:36.818-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:07:36.818-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:40.787-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:07:40.788-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:07:41.381-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.571 seconds
+[2023-05-27T19:08:13.264-0500] {processor.py:157} INFO - Started process (PID=23860) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:13.268-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:08:13.268-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:13.268-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:17.571-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:08:17.572-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:18.465-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.202 seconds
+[2023-05-27T19:08:50.342-0500] {processor.py:157} INFO - Started process (PID=23891) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:50.346-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:08:50.346-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:08:50.346-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:54.838-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:08:54.839-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:08:55.749-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.408 seconds
+[2023-05-27T19:09:27.489-0500] {processor.py:157} INFO - Started process (PID=23918) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:09:27.492-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:09:27.493-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:09:27.493-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:09:32.020-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:09:32.020-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:09:32.675-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.187 seconds
+[2023-05-27T19:10:04.209-0500] {processor.py:157} INFO - Started process (PID=23939) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:04.212-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:10:04.212-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:04.212-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:08.915-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:10:08.916-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:09.638-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.430 seconds
+[2023-05-27T19:10:40.939-0500] {processor.py:157} INFO - Started process (PID=23964) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:40.943-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:10:40.943-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:10:40.943-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:44.990-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:10:44.990-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:10:45.633-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.694 seconds
+[2023-05-27T19:11:17.521-0500] {processor.py:157} INFO - Started process (PID=23998) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:17.524-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:11:17.525-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:17.525-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:21.726-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:11:21.726-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:22.704-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.184 seconds
+[2023-05-27T19:11:53.877-0500] {processor.py:157} INFO - Started process (PID=24020) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:53.881-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:11:53.882-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:11:53.881-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:58.319-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:11:58.320-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:11:59.236-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.359 seconds
+[2023-05-27T19:12:30.528-0500] {processor.py:157} INFO - Started process (PID=24044) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:12:30.532-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:12:30.532-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:12:30.532-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:12:34.982-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:12:34.983-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:12:35.618-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.091 seconds
+[2023-05-27T19:13:07.411-0500] {processor.py:157} INFO - Started process (PID=24066) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:07.415-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:13:07.416-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:07.415-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:11.469-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:13:11.469-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:12.152-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.741 seconds
+[2023-05-27T19:13:44.091-0500] {processor.py:157} INFO - Started process (PID=24091) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:44.095-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:13:44.095-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:13:44.095-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:48.795-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:13:48.796-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:13:49.735-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.645 seconds
+[2023-05-27T19:14:21.051-0500] {processor.py:157} INFO - Started process (PID=24120) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:14:21.055-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:14:21.055-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:21.055-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:14:26.148-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:14:26.148-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:14:27.089-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 6.038 seconds
+[2023-05-27T19:14:58.602-0500] {processor.py:157} INFO - Started process (PID=24143) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:14:58.606-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:14:58.606-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:14:58.606-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:15:02.923-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:15:02.923-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:15:03.579-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.978 seconds
+[2023-05-27T19:15:35.050-0500] {processor.py:157} INFO - Started process (PID=24168) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:15:35.054-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:15:35.054-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:15:35.054-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:15:39.932-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:15:39.932-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:15:40.810-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.761 seconds
+[2023-05-27T19:16:12.638-0500] {processor.py:157} INFO - Started process (PID=24192) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:12.642-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:16:12.642-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:12.642-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:16.970-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:16:16.971-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:17.592-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.955 seconds
+[2023-05-27T19:16:48.940-0500] {processor.py:157} INFO - Started process (PID=24214) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:48.944-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:16:48.944-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:16:48.944-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:53.258-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:16:53.258-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:16:53.946-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.006 seconds
+[2023-05-27T19:17:25.734-0500] {processor.py:157} INFO - Started process (PID=24243) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:17:25.739-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:17:25.740-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:17:25.739-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:17:30.033-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:17:30.033-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:17:30.967-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.234 seconds
+[2023-05-27T19:18:01.942-0500] {processor.py:157} INFO - Started process (PID=24267) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:01.947-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:18:01.947-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:01.947-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:06.324-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:18:06.324-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:07.162-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.220 seconds
+[2023-05-27T19:18:38.389-0500] {processor.py:157} INFO - Started process (PID=24298) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:38.393-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:18:38.393-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:18:38.393-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:42.723-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:18:42.724-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:18:43.358-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.969 seconds
+[2023-05-27T19:19:15.039-0500] {processor.py:157} INFO - Started process (PID=24326) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:15.043-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:19:15.043-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:15.043-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:19.155-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:19:19.156-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:19.789-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.751 seconds
+[2023-05-27T19:19:51.348-0500] {processor.py:157} INFO - Started process (PID=24356) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:51.351-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:19:51.352-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:19:51.352-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:55.744-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:19:55.745-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:19:56.504-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.156 seconds
+[2023-05-27T19:20:27.904-0500] {processor.py:157} INFO - Started process (PID=24378) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:20:27.908-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:20:27.908-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:20:27.908-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:20:32.050-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:20:32.050-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:20:32.680-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.776 seconds
+[2023-05-27T19:21:04.639-0500] {processor.py:157} INFO - Started process (PID=24401) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:04.642-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:21:04.643-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:04.643-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:09.157-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:21:09.157-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:10.093-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.454 seconds
+[2023-05-27T19:21:42.559-0500] {processor.py:157} INFO - Started process (PID=24424) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:42.565-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:21:42.566-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:21:42.566-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:47.331-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:21:47.331-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:21:48.630-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 6.072 seconds
+[2023-05-27T19:22:20.480-0500] {processor.py:157} INFO - Started process (PID=24449) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:22:20.484-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:22:20.484-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:20.484-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:22:24.797-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:22:24.797-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:22:25.902-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.422 seconds
+[2023-05-27T19:22:57.735-0500] {processor.py:157} INFO - Started process (PID=24479) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:22:57.739-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:22:57.739-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:22:57.739-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:23:01.964-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:23:01.965-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:23:02.883-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.149 seconds
+[2023-05-27T19:23:33.816-0500] {processor.py:157} INFO - Started process (PID=24502) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:23:33.820-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:23:33.821-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:23:33.821-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:23:38.073-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:23:38.073-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:23:38.724-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.908 seconds
+[2023-05-27T19:24:10.133-0500] {processor.py:157} INFO - Started process (PID=24525) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:10.137-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:24:10.137-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:10.137-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:14.194-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:24:14.195-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:15.149-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.016 seconds
+[2023-05-27T19:24:46.318-0500] {processor.py:157} INFO - Started process (PID=24550) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:46.322-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:24:46.322-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:24:46.322-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:50.603-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:24:50.604-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:24:51.549-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.231 seconds
+[2023-05-27T19:25:23.293-0500] {processor.py:157} INFO - Started process (PID=24573) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:25:23.296-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:25:23.297-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:25:23.296-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:25:27.979-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:25:27.980-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:25:28.895-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.603 seconds
+[2023-05-27T19:26:00.150-0500] {processor.py:157} INFO - Started process (PID=24598) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:00.154-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:26:00.155-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:00.154-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:04.654-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:26:04.654-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:05.579-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.429 seconds
+[2023-05-27T19:26:36.806-0500] {processor.py:157} INFO - Started process (PID=24620) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:36.810-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:26:36.811-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:26:36.810-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:40.909-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:26:40.910-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:26:41.582-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.776 seconds
+[2023-05-27T19:27:12.783-0500] {processor.py:157} INFO - Started process (PID=24645) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:12.786-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:27:12.786-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:12.786-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:16.901-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:27:16.901-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:17.531-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.749 seconds
+[2023-05-27T19:27:49.285-0500] {processor.py:157} INFO - Started process (PID=24668) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:49.289-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:27:49.289-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:27:49.289-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:53.308-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:27:53.308-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:27:53.936-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.651 seconds
+[2023-05-27T19:28:25.681-0500] {processor.py:157} INFO - Started process (PID=24694) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:28:25.685-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:28:25.685-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:28:25.685-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:28:30.056-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:28:30.057-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:28:30.728-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.047 seconds
+[2023-05-27T19:29:02.625-0500] {processor.py:157} INFO - Started process (PID=24717) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:02.629-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:29:02.629-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:02.629-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:07.238-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:29:07.239-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:07.867-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.242 seconds
+[2023-05-27T19:29:39.819-0500] {processor.py:157} INFO - Started process (PID=24740) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:39.823-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:29:39.823-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:29:39.823-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:44.217-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:29:44.218-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:29:45.145-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.327 seconds
+[2023-05-27T19:30:16.430-0500] {processor.py:157} INFO - Started process (PID=24769) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:16.434-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:30:16.434-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:16.434-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:20.445-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:30:20.446-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:21.077-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.647 seconds
+[2023-05-27T19:30:52.551-0500] {processor.py:157} INFO - Started process (PID=24792) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:52.555-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:30:52.555-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:30:52.555-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:57.364-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:30:57.364-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:30:58.353-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.802 seconds
+[2023-05-27T19:31:29.658-0500] {processor.py:157} INFO - Started process (PID=24817) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:31:29.661-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:31:29.662-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:31:29.662-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:31:33.971-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:31:33.971-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:31:34.869-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.212 seconds
+[2023-05-27T19:32:05.732-0500] {processor.py:157} INFO - Started process (PID=24841) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:05.735-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:32:05.735-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:05.735-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:10.013-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:32:10.014-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:10.951-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.219 seconds
+[2023-05-27T19:32:41.852-0500] {processor.py:157} INFO - Started process (PID=24866) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:41.856-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:32:41.856-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:32:41.856-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:45.568-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:32:45.569-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:32:46.121-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.269 seconds
+[2023-05-27T19:33:17.347-0500] {processor.py:157} INFO - Started process (PID=24888) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:17.350-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:33:17.350-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:17.350-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:21.020-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:33:21.021-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:21.579-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.233 seconds
+[2023-05-27T19:33:52.601-0500] {processor.py:157} INFO - Started process (PID=24910) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:52.604-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:33:52.605-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:33:52.605-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:56.304-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:33:56.305-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:33:56.864-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.264 seconds
+[2023-05-27T19:34:27.841-0500] {processor.py:157} INFO - Started process (PID=24931) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:34:27.844-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:34:27.844-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:34:27.844-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:34:31.477-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:34:31.478-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:34:32.075-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.234 seconds
+[2023-05-27T19:35:03.125-0500] {processor.py:157} INFO - Started process (PID=24953) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:03.128-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:35:03.128-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:03.128-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:06.796-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:35:06.796-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:07.353-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.229 seconds
+[2023-05-27T19:35:38.573-0500] {processor.py:157} INFO - Started process (PID=24975) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:38.576-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:35:38.577-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:35:38.577-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:42.228-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:35:42.228-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:35:42.801-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.228 seconds
+[2023-05-27T19:36:13.851-0500] {processor.py:157} INFO - Started process (PID=24996) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:13.854-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:36:13.854-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:13.854-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:17.590-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:36:17.591-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:18.139-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.288 seconds
+[2023-05-27T19:36:49.688-0500] {processor.py:157} INFO - Started process (PID=25019) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:49.691-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:36:49.691-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:36:49.691-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:53.466-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:36:53.467-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:36:54.042-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.354 seconds
+[2023-05-27T19:37:25.120-0500] {processor.py:157} INFO - Started process (PID=25042) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:37:25.123-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:37:25.124-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:37:25.123-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:37:28.689-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:37:28.689-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:37:29.271-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.151 seconds
+[2023-05-27T19:38:00.303-0500] {processor.py:157} INFO - Started process (PID=25063) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:00.306-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:38:00.306-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:00.306-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:04.420-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:38:04.421-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:04.999-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.697 seconds
+[2023-05-27T19:38:36.239-0500] {processor.py:157} INFO - Started process (PID=25089) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:36.242-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:38:36.242-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:38:36.242-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:40.040-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:38:40.041-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:38:40.992-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.754 seconds
+[2023-05-27T19:39:11.891-0500] {processor.py:157} INFO - Started process (PID=25110) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:11.894-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:39:11.894-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:11.894-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:15.909-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:39:15.910-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:16.478-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.588 seconds
+[2023-05-27T19:39:48.224-0500] {processor.py:157} INFO - Started process (PID=25131) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:48.228-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:39:48.229-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:39:48.228-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:52.797-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:39:52.797-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:39:53.702-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.478 seconds
+[2023-05-27T19:40:24.726-0500] {processor.py:157} INFO - Started process (PID=25152) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:40:24.729-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:40:24.729-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:40:24.729-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:40:28.989-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:40:28.989-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:40:29.619-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.893 seconds
+[2023-05-27T19:41:01.095-0500] {processor.py:157} INFO - Started process (PID=25173) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:01.099-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:41:01.099-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:01.099-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:04.982-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:41:04.982-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:05.665-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.570 seconds
+[2023-05-27T19:41:36.652-0500] {processor.py:157} INFO - Started process (PID=25197) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:36.655-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:41:36.655-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:41:36.655-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:40.792-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:41:40.792-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:41:41.708-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.057 seconds
+[2023-05-27T19:42:13.172-0500] {processor.py:157} INFO - Started process (PID=25229) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:13.175-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:42:13.176-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:13.176-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:17.586-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:42:17.587-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:18.565-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.393 seconds
+[2023-05-27T19:42:49.870-0500] {processor.py:157} INFO - Started process (PID=25262) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:49.874-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:42:49.874-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:42:49.874-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:54.112-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:42:54.113-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:42:54.690-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.821 seconds
+[2023-05-27T19:43:25.773-0500] {processor.py:157} INFO - Started process (PID=25284) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:43:25.776-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:43:25.777-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:43:25.776-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:43:29.816-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:43:29.817-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:43:30.459-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.686 seconds
+[2023-05-27T19:44:02.194-0500] {processor.py:157} INFO - Started process (PID=25306) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:02.197-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:44:02.198-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:02.198-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:05.930-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:44:05.930-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:06.513-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.320 seconds
+[2023-05-27T19:44:37.385-0500] {processor.py:157} INFO - Started process (PID=25328) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:37.388-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:44:37.388-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:44:37.388-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:41.811-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:44:41.812-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:44:42.416-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.032 seconds
+[2023-05-27T19:45:13.353-0500] {processor.py:157} INFO - Started process (PID=25351) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:13.356-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:45:13.357-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:13.357-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:17.336-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:45:17.337-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:17.929-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.576 seconds
+[2023-05-27T19:45:48.945-0500] {processor.py:157} INFO - Started process (PID=25375) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:48.948-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:45:48.949-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:45:48.949-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:52.877-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:45:52.877-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:45:53.481-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.536 seconds
+[2023-05-27T19:46:24.649-0500] {processor.py:157} INFO - Started process (PID=25411) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:46:24.652-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:46:24.652-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:46:24.652-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:46:28.339-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:46:28.339-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:46:28.911-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.263 seconds
+[2023-05-27T19:47:00.536-0500] {processor.py:157} INFO - Started process (PID=25433) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:00.540-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:47:00.540-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:00.540-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:04.443-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:47:04.443-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:05.028-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.492 seconds
+[2023-05-27T19:47:36.755-0500] {processor.py:157} INFO - Started process (PID=25458) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:36.759-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:47:36.760-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:47:36.759-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:41.010-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:47:41.011-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:47:41.621-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.866 seconds
+[2023-05-27T19:48:12.798-0500] {processor.py:157} INFO - Started process (PID=25482) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:12.801-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:48:12.802-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:12.801-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:16.671-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:48:16.671-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:17.250-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.453 seconds
+[2023-05-27T19:48:48.150-0500] {processor.py:157} INFO - Started process (PID=25508) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:48.153-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:48:48.153-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:48:48.153-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:51.835-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:48:51.835-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:48:52.420-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.270 seconds
+[2023-05-27T19:49:23.778-0500] {processor.py:157} INFO - Started process (PID=25530) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:49:23.782-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:49:23.782-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:49:23.782-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:49:28.252-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:49:28.252-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:49:28.869-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.091 seconds
+[2023-05-27T19:50:00.427-0500] {processor.py:157} INFO - Started process (PID=25573) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:00.430-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:50:00.431-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:00.431-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:06.730-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:50:06.736-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:07.879-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 7.453 seconds
+[2023-05-27T19:50:39.419-0500] {processor.py:157} INFO - Started process (PID=25606) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:39.423-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:50:39.423-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:50:39.423-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:44.513-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:50:44.513-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:50:45.474-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 6.055 seconds
+[2023-05-27T19:51:17.082-0500] {processor.py:157} INFO - Started process (PID=25630) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:17.086-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:51:17.086-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:17.086-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:21.545-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:51:21.545-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:22.429-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.348 seconds
+[2023-05-27T19:51:53.818-0500] {processor.py:157} INFO - Started process (PID=25655) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:53.821-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:51:53.822-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:51:53.822-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:57.989-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:51:57.990-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:51:58.895-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.078 seconds
+[2023-05-27T19:52:30.444-0500] {processor.py:157} INFO - Started process (PID=25695) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:52:30.447-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:52:30.448-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:52:30.448-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:52:34.718-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:52:34.718-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:52:35.352-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.909 seconds
+[2023-05-27T19:53:06.736-0500] {processor.py:157} INFO - Started process (PID=25722) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:06.740-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:53:06.740-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:06.740-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:10.797-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:53:10.798-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:11.480-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.744 seconds
+[2023-05-27T19:53:42.953-0500] {processor.py:157} INFO - Started process (PID=25745) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:42.956-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:53:42.956-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:53:42.956-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:46.854-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:53:46.855-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:53:47.448-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.496 seconds
+[2023-05-27T19:54:18.459-0500] {processor.py:157} INFO - Started process (PID=25771) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:18.462-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:54:18.463-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:18.463-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:22.555-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:54:22.556-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:23.146-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.688 seconds
+[2023-05-27T19:54:54.241-0500] {processor.py:157} INFO - Started process (PID=25794) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:54.245-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:54:54.245-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:54:54.245-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:58.476-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:54:58.477-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:54:59.162-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.922 seconds
+[2023-05-27T19:55:30.429-0500] {processor.py:157} INFO - Started process (PID=25819) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:55:30.432-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:55:30.432-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:55:30.432-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:55:34.667-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:55:34.667-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:55:35.490-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.061 seconds
+[2023-05-27T19:56:06.845-0500] {processor.py:157} INFO - Started process (PID=25848) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:06.849-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:56:06.849-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:06.849-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:11.285-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:56:11.286-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:11.891-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.046 seconds
+[2023-05-27T19:56:43.113-0500] {processor.py:157} INFO - Started process (PID=25876) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:43.116-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:56:43.117-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:56:43.117-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:47.039-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:56:47.040-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:56:47.665-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.552 seconds
+[2023-05-27T19:57:19.508-0500] {processor.py:157} INFO - Started process (PID=25905) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:19.511-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:57:19.512-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:19.512-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:23.382-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:57:23.382-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:23.954-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.446 seconds
+[2023-05-27T19:57:55.057-0500] {processor.py:157} INFO - Started process (PID=25930) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:55.060-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:57:55.061-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:57:55.061-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:59.168-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:57:59.168-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:57:59.729-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.672 seconds
+[2023-05-27T19:58:30.730-0500] {processor.py:157} INFO - Started process (PID=25953) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:58:30.734-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:58:30.734-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:58:30.734-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:58:34.813-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:58:34.814-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:58:35.556-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.826 seconds
+[2023-05-27T19:59:06.860-0500] {processor.py:157} INFO - Started process (PID=25986) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:06.863-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:59:06.863-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:06.863-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:11.033-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:59:11.034-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:11.678-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.818 seconds
+[2023-05-27T19:59:42.962-0500] {processor.py:157} INFO - Started process (PID=26010) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:42.965-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T19:59:42.966-0500] {logging_mixin.py:149} INFO - [2023-05-27T19:59:42.965-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:46.831-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T19:59:46.832-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T19:59:47.426-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.464 seconds
+[2023-05-27T20:00:18.382-0500] {processor.py:157} INFO - Started process (PID=26033) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:18.385-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:00:18.386-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:18.386-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:22.445-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:00:22.446-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:23.157-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.775 seconds
+[2023-05-27T20:00:54.553-0500] {processor.py:157} INFO - Started process (PID=26060) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:54.556-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:00:54.556-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:00:54.556-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:59.128-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:00:59.129-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:00:59.778-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.228 seconds
+[2023-05-27T20:01:31.071-0500] {processor.py:157} INFO - Started process (PID=26095) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:01:31.074-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:01:31.074-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:01:31.074-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:01:35.652-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:01:35.653-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:01:36.330-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.260 seconds
+[2023-05-27T20:02:07.781-0500] {processor.py:157} INFO - Started process (PID=26119) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:07.784-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:02:07.785-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:07.785-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:12.121-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:02:12.122-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:12.867-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.087 seconds
+[2023-05-27T20:02:44.271-0500] {processor.py:157} INFO - Started process (PID=26141) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:44.274-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:02:44.274-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:02:44.274-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:48.693-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:02:48.694-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:02:49.448-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.177 seconds
+[2023-05-27T20:03:21.348-0500] {processor.py:157} INFO - Started process (PID=26173) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:03:21.352-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:03:21.353-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:21.353-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:03:25.624-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:03:25.625-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:03:26.270-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.922 seconds
+[2023-05-27T20:03:57.612-0500] {processor.py:157} INFO - Started process (PID=26197) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:03:57.616-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:03:57.616-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:03:57.616-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:04:01.500-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:04:01.501-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:04:02.089-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.477 seconds
+[2023-05-27T20:04:33.511-0500] {processor.py:157} INFO - Started process (PID=26222) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:04:33.515-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:04:33.515-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:04:33.515-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:04:37.565-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:04:37.566-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:04:38.230-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.720 seconds
+[2023-05-27T20:05:09.336-0500] {processor.py:157} INFO - Started process (PID=26245) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:09.340-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:05:09.340-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:09.340-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:13.331-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:05:13.331-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:13.950-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.614 seconds
+[2023-05-27T20:05:44.929-0500] {processor.py:157} INFO - Started process (PID=26267) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:44.933-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:05:44.934-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:05:44.934-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:48.974-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:05:48.975-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:05:49.561-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.632 seconds
+[2023-05-27T20:06:20.736-0500] {processor.py:157} INFO - Started process (PID=26290) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:06:20.739-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:06:20.739-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:20.739-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:06:24.909-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:06:24.909-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:06:25.570-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.835 seconds
+[2023-05-27T20:06:56.998-0500] {processor.py:157} INFO - Started process (PID=26312) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:06:57.001-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:06:57.002-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:06:57.002-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:07:01.615-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:07:01.616-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:07:02.234-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.236 seconds
+[2023-05-27T20:07:33.366-0500] {processor.py:157} INFO - Started process (PID=26337) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:07:33.370-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:07:33.370-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:07:33.370-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:07:37.307-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:07:37.308-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:07:37.881-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.516 seconds
+[2023-05-27T20:08:09.353-0500] {processor.py:157} INFO - Started process (PID=26363) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:09.378-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:08:09.379-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:09.379-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:13.645-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:08:13.646-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:14.291-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.938 seconds
+[2023-05-27T20:08:45.757-0500] {processor.py:157} INFO - Started process (PID=26385) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:45.761-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:08:45.761-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:08:45.761-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:50.797-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:08:50.798-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:08:51.385-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 5.628 seconds
+[2023-05-27T20:09:23.241-0500] {processor.py:157} INFO - Started process (PID=26413) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:09:23.244-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:09:23.245-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:23.245-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:09:27.139-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:09:27.140-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:09:27.740-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.499 seconds
+[2023-05-27T20:09:58.928-0500] {processor.py:157} INFO - Started process (PID=26435) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:09:58.932-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:09:58.932-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:09:58.932-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:10:02.868-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:10:02.868-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:10:03.447-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.519 seconds
+[2023-05-27T20:10:34.693-0500] {processor.py:157} INFO - Started process (PID=26460) to work on /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:10:34.697-0500] {processor.py:826} INFO - Processing file /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py for tasks to queue
+[2023-05-27T20:10:34.698-0500] {logging_mixin.py:149} INFO - [2023-05-27T20:10:34.697-0500] {dagbag.py:541} INFO - Filling up the DagBag from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:10:39.057-0500] {logging_mixin.py:149} INFO - Lines with a: 42, lines with b: 7
+[2023-05-27T20:10:39.057-0500] {processor.py:838} WARNING - No viable dags retrieved from /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py
+[2023-05-27T20:10:39.681-0500] {processor.py:179} INFO - Processing /Users/sujatabaral/airflow/dags/assignment/sparksubmit_basic.py took 4.988 seconds
