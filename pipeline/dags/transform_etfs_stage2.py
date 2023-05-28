@@ -1,47 +1,25 @@
-
 from pyspark.sql import SparkSession
-
+from pyspark.sql.window import Window
+from pyspark.sql.functions import avg
 
 spark = SparkSession \
     .builder \
     .appName("stock data analysis") \
     .getOrCreate()
 
-
 # read from parquet file of stage1
 out_path = "./airflow/data_pipeline/pipeline/etf-data-out/landing_etfs.parquet"
 stock_out_df = spark.read.parquet(out_path)
-print("print scema after parquet conversion =====================")
+print("print scema from parquet =====================")
 stock_out_df.printSchema()
 
 
 # Feature engineering
-stock_out_df.createOrReplaceTempView("etf_table")
-
-vol_moving_avg_df = spark.sql('''
-          SELECT *,
-          avg(volume) OVER(
-              PARTITION BY Symbol
-              ORDER BY Date
-              ROWS BETWEEN 29 PRECEDING AND CURRENT ROW)
-              AS vol_moving_avg
-          FROM etf_table
-          '''
-                              )
-
-vol_moving_avg_df.createOrReplaceTempView("etf_table")
-
-final_df = spark.sql('''
-          SELECT *,
-          avg(AdjClose) OVER(
-              PARTITION BY Symbol
-              ORDER BY Date
-              ROWS BETWEEN 29 PRECEDING AND CURRENT ROW)
-              AS adj_close_rolling_med
-          FROM etf_table
-          '''
-                     )
-print("final_df =====================")
+window_spec = Window.partitionBy("Symbol").orderBy("Date").rowsBetween(Window.currentRow - 29, Window.currentRow)
+final_df = stock_out_df.withColumn("vol_moving_avg", avg("volume").over(window_spec))
+final_df = final_df.withColumn("adj_close_rolling_med", avg("AdjClose").over(window_spec))
+print("print scema from final_df =====================")
+final_df.printSchema()
 
 
 # write into parquet format into another directory
