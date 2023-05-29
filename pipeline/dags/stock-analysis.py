@@ -1,7 +1,7 @@
-import airflow
 from datetime import timedelta
 from airflow import DAG
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
+from airflow.operators.python import PythonOperator
 import pendulum
 
 
@@ -11,8 +11,17 @@ default_args = {
     'retry_delay': timedelta(minutes=1),
 }
 
+def get_name(ti):
+    ti.xcom_push(key='first_name', value='Jerry')
+    ti.xcom_push(key='last_name', value='Morgan')
+
+task1 = PythonOperator(
+    task_id='greet',
+    python_callable=greet
+)
+
 dag_stock_analysis = DAG(
-    dag_id="stock_etf_analysis_dag_v_08",
+    dag_id="stock_etf_analysis_dag_v_09",
     default_args=default_args,
     schedule_interval='@once',
     dagrun_timeout=timedelta(minutes=300),
