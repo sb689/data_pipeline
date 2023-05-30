@@ -6,7 +6,7 @@ The code base is developed using standalone airflow. To run the data pipeline DA
 
 ### Webservice test
 
-The webserver endpoint is developed and tested in this repo: https://github.com/sb689/server_api
+The webserver endpoint is developed and tested in this repo: https://github.com/sb689/server_api. Result of performance test is also added.
 
 ### DAG diagram
 
